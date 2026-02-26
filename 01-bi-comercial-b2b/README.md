@@ -19,3 +19,5 @@ Power BI • Excel • SQL
 ## Entregáveis
 - CSVs simulados (pasta `data/`)
 - Prints do dashboard (pasta `dashboard/`)
+- ## Preview (Visão Executiva)
+![Visão Executiva](./dashboard/01-visao-executiva.png)
