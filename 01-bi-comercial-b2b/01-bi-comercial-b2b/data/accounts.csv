@@ -1,0 +1,121 @@
+account_id,account_name,segment,employees_range,industry,city_state,region
+A-0001,Nova Digital 001,Mid,51-200,Manufacturing,São Paulo/SP,Sudeste
+A-0002,Atlas Comércio 002,Mid,51-200,Healthcare,Belo Horizonte/MG,Sul
+A-0003,Blue Indústria 003,SMB,1-50,Healthcare,Florianópolis/SC,Sul
+A-0004,Atlas Group 004,SMB,1-50,Manufacturing,Belo Horizonte/MG,Norte
+A-0005,Nova Serviços 005,SMB,1-50,Education,Belo Horizonte/MG,Centro-Oeste
+A-0006,Blue Solutions 006,SMB,1-50,Services,Curitiba/PR,Nordeste
+A-0007,Orion Digital 007,SMB,1-50,Services,Recife/PE,Nordeste
+A-0008,Sul Comércio 008,SMB,1-50,Healthcare,Rio de Janeiro/RJ,Norte
+A-0009,Orion Indústria 009,Mid,51-200,Education,Curitiba/PR,Sul
+A-0010,Apex Comércio 010,Mid,51-200,Manufacturing,Goiânia/GO,Sul
+A-0011,Meta Solutions 011,SMB,1-50,Manufacturing,Rio de Janeiro/RJ,Centro-Oeste
+A-0012,Apex Comércio 012,SMB,1-50,Healthcare,Recife/PE,Sudeste
+A-0013,Blue Serviços 013,SMB,1-50,SaaS,Belo Horizonte/MG,Centro-Oeste
+A-0014,Atlas Indústria 014,Enterprise,200+,Education,Rio de Janeiro/RJ,Sul
+A-0015,Nova Solutions 015,SMB,1-50,SaaS,Rio de Janeiro/RJ,Sul
+A-0016,Nexo Solutions 016,SMB,1-50,Manufacturing,Recife/PE,Nordeste
+A-0017,Meta Serviços 017,SMB,1-50,Retail,São Paulo/SP,Sudeste
+A-0018,Atlas Digital 018,Mid,51-200,Education,Florianópolis/SC,Nordeste
+A-0019,Sul Solutions 019,Mid,51-200,Manufacturing,São Paulo/SP,Norte
+A-0020,Nova Comércio 020,SMB,1-50,Manufacturing,Recife/PE,Sudeste
+A-0021,Sul Comércio 021,Mid,51-200,SaaS,Belo Horizonte/MG,Norte
+A-0022,Atlas Digital 022,Enterprise,200+,Healthcare,Goiânia/GO,Sul
+A-0023,Prime Digital 023,Mid,51-200,Education,Rio de Janeiro/RJ,Sul
+A-0024,Vitta Labs 024,SMB,1-50,Services,Recife/PE,Centro-Oeste
+A-0025,Vitta Comércio 025,Enterprise,200+,Education,Rio de Janeiro/RJ,Norte
+A-0026,Vitta Solutions 026,Mid,51-200,Manufacturing,Florianópolis/SC,Norte
+A-0027,Nexo Solutions 027,Enterprise,200+,SaaS,Curitiba/PR,Sul
+A-0028,Apex Indústria 028,Enterprise,200+,Services,São Paulo/SP,Norte
+A-0029,Prime Labs 029,Enterprise,200+,Services,Goiânia/GO,Norte
+A-0030,Vitta Labs 030,Mid,51-200,Healthcare,São Paulo/SP,Centro-Oeste
+A-0031,Nexo Group 031,SMB,1-50,Manufacturing,Florianópolis/SC,Sudeste
+A-0032,Sul Solutions 032,Mid,51-200,SaaS,Florianópolis/SC,Nordeste
+A-0033,Blue Comércio 033,SMB,1-50,Retail,Curitiba/PR,Norte
+A-0034,Nexo Indústria 034,SMB,1-50,Services,Curitiba/PR,Sul
+A-0035,Nova Solutions 035,SMB,1-50,Services,Florianópolis/SC,Sudeste
+A-0036,Meta Indústria 036,SMB,1-50,Healthcare,São Paulo/SP,Norte
+A-0037,Blue Labs 037,SMB,1-50,SaaS,São Paulo/SP,Sul
+A-0038,Sul Solutions 038,SMB,1-50,SaaS,Belo Horizonte/MG,Nordeste
+A-0039,Nova Comércio 039,Mid,51-200,Services,Belo Horizonte/MG,Centro-Oeste
+A-0040,Prime Indústria 040,Mid,51-200,Manufacturing,São Paulo/SP,Norte
+A-0041,Sul Serviços 041,SMB,1-50,Retail,Belo Horizonte/MG,Sudeste
+A-0042,Prime Labs 042,Mid,51-200,Healthcare,Curitiba/PR,Sul
+A-0043,Atlas Tech 043,Mid,51-200,Services,Goiânia/GO,Sudeste
+A-0044,Meta Labs 044,SMB,1-50,Manufacturing,Goiânia/GO,Nordeste
+A-0045,Vitta Group 045,Enterprise,200+,Services,Belo Horizonte/MG,Centro-Oeste
+A-0046,Meta Digital 046,Enterprise,200+,SaaS,Recife/PE,Norte
+A-0047,Meta Serviços 047,Mid,51-200,Manufacturing,Rio de Janeiro/RJ,Sudeste
+A-0048,Nexo Tech 048,Enterprise,200+,Education,Rio de Janeiro/RJ,Sul
+A-0049,Meta Serviços 049,SMB,1-50,Services,Florianópolis/SC,Sul
+A-0050,Prime Comércio 050,Mid,51-200,Education,Goiânia/GO,Sudeste
+A-0051,Nexo Indústria 051,SMB,1-50,Healthcare,Florianópolis/SC,Sul
+A-0052,Sul Solutions 052,Mid,51-200,Retail,São Paulo/SP,Centro-Oeste
+A-0053,Sul Serviços 053,SMB,1-50,Education,Recife/PE,Centro-Oeste
+A-0054,Prime Tech 054,SMB,1-50,SaaS,Florianópolis/SC,Norte
+A-0055,Prime Indústria 055,Enterprise,200+,Healthcare,Rio de Janeiro/RJ,Sudeste
+A-0056,Prime Indústria 056,Enterprise,200+,Retail,Rio de Janeiro/RJ,Sudeste
+A-0057,Atlas Digital 057,SMB,1-50,Healthcare,Goiânia/GO,Norte
+A-0058,Atlas Digital 058,SMB,1-50,Education,Curitiba/PR,Sudeste
+A-0059,Prime Serviços 059,SMB,1-50,Retail,Rio de Janeiro/RJ,Norte
+A-0060,Orion Indústria 060,SMB,1-50,Education,Recife/PE,Centro-Oeste
+A-0061,Apex Tech 061,SMB,1-50,Services,Recife/PE,Nordeste
+A-0062,Nova Tech 062,Mid,51-200,Retail,Goiânia/GO,Sudeste
+A-0063,Apex Serviços 063,Mid,51-200,Education,Belo Horizonte/MG,Norte
+A-0064,Atlas Tech 064,Mid,51-200,Services,Curitiba/PR,Sudeste
+A-0065,Orion Serviços 065,SMB,1-50,SaaS,São Paulo/SP,Sul
+A-0066,Nova Solutions 066,SMB,1-50,Manufacturing,Recife/PE,Sudeste
+A-0067,Orion Group 067,Mid,51-200,Healthcare,Recife/PE,Sudeste
+A-0068,Blue Serviços 068,Enterprise,200+,Manufacturing,Belo Horizonte/MG,Sul
+A-0069,Orion Group 069,SMB,1-50,Education,Goiânia/GO,Sudeste
+A-0070,Prime Group 070,SMB,1-50,Services,Goiânia/GO,Nordeste
+A-0071,Meta Solutions 071,SMB,1-50,Retail,Goiânia/GO,Sudeste
+A-0072,Blue Group 072,SMB,1-50,Retail,Rio de Janeiro/RJ,Sul
+A-0073,Apex Solutions 073,Enterprise,200+,Education,Florianópolis/SC,Nordeste
+A-0074,Atlas Solutions 074,Mid,51-200,Services,Curitiba/PR,Centro-Oeste
+A-0075,Apex Tech 075,SMB,1-50,Services,Florianópolis/SC,Nordeste
+A-0076,Orion Group 076,SMB,1-50,Healthcare,Florianópolis/SC,Sul
+A-0077,Nexo Indústria 077,SMB,1-50,Retail,Curitiba/PR,Nordeste
+A-0078,Atlas Indústria 078,SMB,1-50,Retail,Belo Horizonte/MG,Sul
+A-0079,Orion Solutions 079,Enterprise,200+,Education,Goiânia/GO,Sul
+A-0080,Apex Digital 080,Mid,51-200,Education,Belo Horizonte/MG,Centro-Oeste
+A-0081,Apex Serviços 081,SMB,1-50,Manufacturing,Belo Horizonte/MG,Nordeste
+A-0082,Vitta Digital 082,Mid,51-200,SaaS,Florianópolis/SC,Sul
+A-0083,Blue Group 083,SMB,1-50,Healthcare,Florianópolis/SC,Centro-Oeste
+A-0084,Meta Indústria 084,SMB,1-50,Healthcare,Belo Horizonte/MG,Sudeste
+A-0085,Apex Solutions 085,Mid,51-200,Services,Goiânia/GO,Sudeste
+A-0086,Blue Indústria 086,Mid,51-200,Manufacturing,Curitiba/PR,Sul
+A-0087,Meta Comércio 087,SMB,1-50,SaaS,Belo Horizonte/MG,Norte
+A-0088,Sul Labs 088,SMB,1-50,SaaS,São Paulo/SP,Sudeste
+A-0089,Nova Comércio 089,Mid,51-200,SaaS,São Paulo/SP,Sudeste
+A-0090,Atlas Labs 090,Mid,51-200,Services,Florianópolis/SC,Sudeste
+A-0091,Prime Labs 091,Enterprise,200+,Manufacturing,Goiânia/GO,Nordeste
+A-0092,Atlas Solutions 092,Mid,51-200,SaaS,Florianópolis/SC,Norte
+A-0093,Atlas Labs 093,SMB,1-50,Manufacturing,Recife/PE,Nordeste
+A-0094,Blue Digital 094,SMB,1-50,Healthcare,Belo Horizonte/MG,Sudeste
+A-0095,Prime Digital 095,SMB,1-50,Manufacturing,Rio de Janeiro/RJ,Centro-Oeste
+A-0096,Atlas Comércio 096,SMB,1-50,Manufacturing,São Paulo/SP,Sudeste
+A-0097,Vitta Indústria 097,SMB,1-50,Services,Belo Horizonte/MG,Nordeste
+A-0098,Meta Group 098,SMB,1-50,Services,São Paulo/SP,Nordeste
+A-0099,Nexo Tech 099,SMB,1-50,Healthcare,Belo Horizonte/MG,Nordeste
+A-0100,Orion Digital 100,SMB,1-50,SaaS,Goiânia/GO,Nordeste
+A-0101,Atlas Indústria 101,SMB,1-50,SaaS,São Paulo/SP,Centro-Oeste
+A-0102,Nova Group 102,SMB,1-50,Retail,Recife/PE,Nordeste
+A-0103,Meta Serviços 103,Mid,51-200,Healthcare,Florianópolis/SC,Sul
+A-0104,Nexo Tech 104,Enterprise,200+,Services,Recife/PE,Nordeste
+A-0105,Meta Serviços 105,SMB,1-50,Services,Rio de Janeiro/RJ,Nordeste
+A-0106,Meta Solutions 106,SMB,1-50,Retail,Goiânia/GO,Nordeste
+A-0107,Sul Digital 107,SMB,1-50,Services,Belo Horizonte/MG,Sul
+A-0108,Nova Solutions 108,Mid,51-200,Manufacturing,Recife/PE,Sul
+A-0109,Nova Tech 109,Mid,51-200,Manufacturing,São Paulo/SP,Sul
+A-0110,Blue Serviços 110,Mid,51-200,SaaS,Recife/PE,Sul
+A-0111,Blue Labs 111,SMB,1-50,Education,Rio de Janeiro/RJ,Centro-Oeste
+A-0112,Nexo Comércio 112,SMB,1-50,Manufacturing,Rio de Janeiro/RJ,Sul
+A-0113,Apex Group 113,SMB,1-50,SaaS,Recife/PE,Sudeste
+A-0114,Blue Comércio 114,SMB,1-50,Education,Goiânia/GO,Centro-Oeste
+A-0115,Nexo Comércio 115,Mid,51-200,Healthcare,Goiânia/GO,Sul
+A-0116,Sul Solutions 116,SMB,1-50,Services,Florianópolis/SC,Centro-Oeste
+A-0117,Sul Labs 117,SMB,1-50,Services,Belo Horizonte/MG,Centro-Oeste
+A-0118,Meta Serviços 118,Mid,51-200,SaaS,São Paulo/SP,Norte
+A-0119,Apex Labs 119,Enterprise,200+,SaaS,Belo Horizonte/MG,Norte
+A-0120,Blue Comércio 120,SMB,1-50,Retail,Belo Horizonte/MG,Sudeste

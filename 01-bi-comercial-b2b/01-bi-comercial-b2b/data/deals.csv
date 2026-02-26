@@ -1,0 +1,521 @@
+deal_id,created_date,close_date,status,stage,stage_entered_date,lead_source,channel,industry,region,account_id,account_name,owner,deal_value,expected_value,probability,product,sales_cycle_days,loss_reason
+D-00001,2025-12-15,2026-02-07,Won,Closed Won,2026-01-28,Referral,Email,Education,Nordeste,A-0073,Apex Solutions 073,Ana (AE),59203.01,59203.01,1.0,Plano B,54,
+D-00002,2024-09-06,2024-11-14,Won,Closed Won,2024-11-05,Partner,WhatsApp,Healthcare,Sudeste,A-0067,Orion Group 067,Diego (AE),31313.2,31313.2,1.0,Serviço Y,69,
+D-00003,2025-07-06,2025-08-22,Won,Closed Won,2025-08-17,Outbound,WhatsApp,Services,Sudeste,A-0085,Apex Solutions 085,Carla (AE),21967.95,21967.95,1.0,Serviço X,47,
+D-00004,2025-03-12,2025-05-05,Lost,Closed Lost,2025-04-30,Inbound,Email,Retail,Sudeste,A-0041,Sul Serviços 041,Diego (AE),3176.35,0.0,0.0,Serviço Y,54,No Decision
+D-00005,2025-03-13,2025-07-07,Open,Prospecting,2026-02-18,Outbound,Email,SaaS,Nordeste,A-0038,Sul Solutions 038,Ana (AE),5704.43,570.44,0.1,Plano A,116,
+D-00006,2025-06-14,2025-09-22,Open,Prospecting,2026-02-09,Inbound,Phone,Services,Nordeste,A-0061,Apex Tech 061,Eva (SDR),8176.75,817.68,0.1,Plano A,100,
+D-00007,2025-01-26,2025-04-04,Open,Proposal,2026-01-21,Inbound,WhatsApp,Services,Nordeste,A-0104,Nexo Tech 104,Eva (SDR),51729.6,25864.8,0.5,Implantação,68,
+D-00008,2025-06-27,2026-02-02,Open,Prospecting,2026-02-07,Inbound,Other,Education,Centro-Oeste,A-0111,Blue Labs 111,Carla (AE),10238.83,1023.88,0.1,Plano A,220,
+D-00009,2024-11-11,2025-02-17,Won,Closed Won,2025-01-28,Partner,WhatsApp,SaaS,Norte,A-0021,Sul Comércio 021,Bruno (AE),21341.99,21341.99,1.0,Serviço Y,98,
+D-00010,2025-03-17,2025-05-22,Lost,Closed Lost,2025-05-06,Inbound,Email,Healthcare,Sudeste,A-0055,Prime Indústria 055,Ana (AE),20892.67,0.0,0.0,Plano A,66,No Decision
+D-00011,2025-01-01,2025-04-08,Open,Proposal,2026-02-13,Outbound,LinkedIn,Education,Centro-Oeste,A-0060,Orion Indústria 060,Eva (SDR),18077.27,9038.63,0.5,Plano A,97,
+D-00012,2025-04-18,2025-07-13,Open,Prospecting,2026-02-01,Event,WhatsApp,SaaS,Norte,A-0087,Meta Comércio 087,Eva (SDR),21972.41,2197.24,0.1,Serviço X,86,
+D-00013,2025-02-28,2025-06-16,Open,Qualification,2026-01-07,Outbound,LinkedIn,Services,Nordeste,A-0075,Apex Tech 075,Eva (SDR),5615.75,1684.73,0.3,Serviço X,108,
+D-00014,2025-10-11,2025-11-24,Open,Qualification,2026-01-10,Partner,Phone,Services,Nordeste,A-0105,Meta Serviços 105,Ana (AE),4385.78,1315.73,0.3,Plano A,44,
+D-00015,2026-01-19,2026-02-14,Lost,Closed Lost,2026-01-26,Inbound,Email,Manufacturing,Nordeste,A-0081,Apex Serviços 081,Bruno (AE),7898.53,0.0,0.0,Serviço Y,26,No Need
+D-00016,2024-09-10,2024-11-20,Lost,Closed Lost,2024-11-03,Inbound,Phone,Retail,Sudeste,A-0071,Meta Solutions 071,Diego (AE),7370.99,0.0,0.0,Plano B,71,Competitor
+D-00017,2025-12-23,2026-03-06,Open,Proposal,2026-01-17,Outbound,WhatsApp,SaaS,Nordeste,A-0032,Sul Solutions 032,Ana (AE),16867.17,8433.59,0.5,Plano B,73,
+D-00018,2025-05-27,2025-07-25,Lost,Closed Lost,2025-07-17,Referral,LinkedIn,Retail,Nordeste,A-0106,Meta Solutions 106,Carla (AE),22304.88,0.0,0.0,Serviço Y,59,Timing
+D-00019,2025-04-28,2025-07-18,Lost,Closed Lost,2025-07-15,Inbound,LinkedIn,Services,Centro-Oeste,A-0074,Atlas Solutions 074,Bruno (AE),6325.68,0.0,0.0,Serviço Y,81,No Need
+D-00020,2025-01-03,2025-01-30,Lost,Closed Lost,2025-01-13,Referral,Email,SaaS,Sul,A-0065,Orion Serviços 065,Ana (AE),19621.58,0.0,0.0,Serviço Y,27,No Need
+D-00021,2025-05-25,2025-08-20,Lost,Closed Lost,2025-08-17,Inbound,WhatsApp,Manufacturing,Nordeste,A-0044,Meta Labs 044,Ana (AE),10867.03,0.0,0.0,Implantação,87,Timing
+D-00022,2024-11-05,2024-12-16,Open,Prospecting,2026-02-17,Partner,LinkedIn,Manufacturing,Sudeste,A-0031,Nexo Group 031,Eva (SDR),60000.0,6000.0,0.1,Plano A,41,
+D-00023,2024-10-13,2025-01-19,Open,Prospecting,2026-01-10,Inbound,LinkedIn,Healthcare,Sul,A-0042,Prime Labs 042,Bruno (AE),30864.11,3086.41,0.1,Implantação,98,
+D-00024,2025-04-30,2025-07-03,Open,Qualification,2026-01-30,Inbound,Phone,Services,Sudeste,A-0064,Atlas Tech 064,Bruno (AE),16833.45,5050.04,0.3,Serviço X,64,
+D-00025,2025-11-04,2026-01-11,Won,Closed Won,2026-01-01,Inbound,WhatsApp,SaaS,Sudeste,A-0089,Nova Comércio 089,Carla (AE),9596.66,9596.66,1.0,Implantação,68,
+D-00026,2024-09-04,2025-01-08,Won,Closed Won,2025-01-02,Partner,Email,Education,Nordeste,A-0073,Apex Solutions 073,Eva (SDR),300000.0,300000.0,1.0,Serviço X,126,
+D-00027,2024-12-04,2025-01-16,Lost,Closed Lost,2025-01-10,Inbound,LinkedIn,Services,Centro-Oeste,A-0116,Sul Solutions 116,Diego (AE),9968.28,0.0,0.0,Plano B,43,No Need
+D-00028,2025-09-05,2026-02-03,Open,Prospecting,2026-01-06,Referral,Phone,Manufacturing,Sul,A-0068,Blue Serviços 068,Ana (AE),45171.74,4517.17,0.1,Serviço X,151,
+D-00029,2025-10-07,2025-12-12,Won,Closed Won,2025-11-29,Inbound,LinkedIn,Manufacturing,Sul,A-0109,Nova Tech 109,Diego (AE),33390.98,33390.98,1.0,Serviço Y,66,
+D-00030,2024-12-15,2026-02-15,Open,Qualification,2026-01-30,Inbound,Email,SaaS,Norte,A-0087,Meta Comércio 087,Eva (SDR),24339.58,7301.87,0.3,Serviço Y,427,
+D-00031,2026-01-13,2026-01-17,Open,Negotiation,2026-01-23,Partner,Phone,SaaS,Sul,A-0015,Nova Solutions 015,Diego (AE),3816.26,2671.38,0.7,Serviço Y,4,
+D-00032,2025-06-09,2025-08-16,Won,Closed Won,2025-08-06,Inbound,LinkedIn,Education,Centro-Oeste,A-0005,Nova Serviços 005,Carla (AE),11381.58,11381.58,1.0,Serviço X,68,
+D-00033,2025-03-09,2025-06-05,Lost,Closed Lost,2025-05-28,Event,Email,Manufacturing,Nordeste,A-0016,Nexo Solutions 016,Carla (AE),4561.79,0.0,0.0,Serviço X,88,No Budget
+D-00034,2025-04-05,2025-05-09,Open,Proposal,2026-02-17,Referral,Email,Services,Nordeste,A-0105,Meta Serviços 105,Ana (AE),16465.47,8232.73,0.5,Plano B,34,
+D-00035,2025-01-08,2025-03-29,Open,Proposal,2026-01-26,Inbound,Email,Healthcare,Sul,A-0002,Atlas Comércio 002,Carla (AE),7600.98,3800.49,0.5,Plano B,80,
+D-00036,2026-02-03,2026-02-12,Won,Closed Won,2026-02-04,Inbound,WhatsApp,Healthcare,Sul,A-0076,Orion Group 076,Eva (SDR),3299.77,3299.77,1.0,Implantação,9,
+D-00037,2024-12-15,2025-02-19,Lost,Closed Lost,2025-02-01,Inbound,Email,Education,Norte,A-0063,Apex Serviços 063,Eva (SDR),29415.02,0.0,0.0,Plano B,66,Competitor
+D-00038,2025-06-24,2025-08-12,Open,Qualification,2026-01-20,Inbound,WhatsApp,Retail,Norte,A-0059,Prime Serviços 059,Diego (AE),8600.03,2580.01,0.3,Implantação,49,
+D-00039,2025-10-09,2025-11-08,Won,Closed Won,2025-10-26,Inbound,Other,SaaS,Norte,A-0054,Prime Tech 054,Bruno (AE),12694.43,12694.43,1.0,Serviço Y,30,
+D-00040,2025-01-07,2025-04-13,Open,Negotiation,2026-02-12,Referral,Phone,Retail,Sul,A-0072,Blue Group 072,Bruno (AE),10639.15,7447.41,0.7,Serviço Y,96,
+D-00041,2026-01-28,2026-04-29,Open,Proposal,2026-01-30,Outbound,WhatsApp,Services,Norte,A-0028,Apex Indústria 028,Diego (AE),16073.29,8036.64,0.5,Plano A,91,
+D-00042,2024-09-22,2024-10-28,Lost,Closed Lost,2024-10-26,Inbound,LinkedIn,Retail,Sul,A-0078,Atlas Indústria 078,Diego (AE),6045.57,0.0,0.0,Plano A,36,No Budget
+D-00043,2024-11-28,2026-01-09,Open,Prospecting,2026-02-15,Inbound,LinkedIn,Manufacturing,Sudeste,A-0096,Atlas Comércio 096,Carla (AE),9013.72,901.37,0.1,Serviço X,407,
+D-00044,2024-11-18,2025-02-19,Won,Closed Won,2025-02-02,Outbound,Email,Services,Sudeste,A-0035,Nova Solutions 035,Carla (AE),7549.36,7549.36,1.0,Implantação,93,
+D-00045,2026-02-17,2026-01-21,Open,Qualification,2026-02-18,Inbound,Email,Manufacturing,Sul,A-0086,Blue Indústria 086,Eva (SDR),13120.04,3936.01,0.3,Plano B,-27,
+D-00046,2025-01-06,2025-02-04,Open,Prospecting,2026-01-13,Partner,LinkedIn,Services,Sul,A-0049,Meta Serviços 049,Carla (AE),8943.15,894.32,0.1,Serviço Y,29,
+D-00047,2025-11-09,2026-02-11,Open,Proposal,2026-02-03,Outbound,Other,Services,Centro-Oeste,A-0074,Atlas Solutions 074,Bruno (AE),12789.74,6394.87,0.5,Plano B,94,
+D-00048,2025-11-16,2026-01-17,Lost,Closed Lost,2026-01-04,Partner,Email,Healthcare,Sul,A-0076,Orion Group 076,Eva (SDR),7465.67,0.0,0.0,Plano B,62,No Need
+D-00049,2025-01-25,2025-04-27,Lost,Closed Lost,2025-04-11,Inbound,WhatsApp,Manufacturing,Sudeste,A-0031,Nexo Group 031,Ana (AE),4477.17,0.0,0.0,Plano A,92,No Decision
+D-00050,2025-07-23,2025-10-10,Open,Prospecting,2026-02-15,Outbound,WhatsApp,Education,Centro-Oeste,A-0111,Blue Labs 111,Bruno (AE),19435.5,1943.55,0.1,Serviço X,79,
+D-00051,2025-09-08,2025-11-22,Lost,Closed Lost,2025-11-02,Inbound,WhatsApp,Services,Sul,A-0107,Sul Digital 107,Eva (SDR),4139.11,0.0,0.0,Serviço Y,75,No Budget
+D-00052,2025-03-07,2026-01-20,Open,Proposal,2026-01-21,Outbound,Phone,Healthcare,Sul,A-0042,Prime Labs 042,Eva (SDR),23601.81,11800.9,0.5,Serviço X,319,
+D-00053,2026-02-14,2026-02-17,Won,Closed Won,2026-02-12,Outbound,WhatsApp,Healthcare,Sudeste,A-0067,Orion Group 067,Eva (SDR),22476.62,22476.62,1.0,Implantação,5,
+D-00054,2025-06-13,2025-09-24,Open,Qualification,2026-01-24,Referral,LinkedIn,Retail,Norte,A-0033,Blue Comércio 033,Eva (SDR),18585.48,5575.64,0.3,Implantação,103,
+D-00055,2025-01-06,2025-04-23,Open,Proposal,2026-02-13,Outbound,LinkedIn,Retail,Nordeste,A-0077,Nexo Indústria 077,Carla (AE),11179.27,5589.63,0.5,Plano B,107,
+D-00056,2025-11-03,2025-12-28,Won,Closed Won,2025-12-23,Inbound,Phone,Manufacturing,Sudeste,A-0066,Nova Solutions 066,Ana (AE),6551.86,6551.86,1.0,Serviço Y,55,
+D-00057,2026-01-28,2026-02-06,Won,Closed Won,2026-02-02,Partner,Phone,Healthcare,Nordeste,A-0099,Nexo Tech 099,Carla (AE),10204.24,10204.24,1.0,Implantação,9,
+D-00058,2025-11-18,2025-12-30,Lost,Closed Lost,2025-12-17,Outbound,Email,Services,Nordeste,A-0006,Blue Solutions 006,Bruno (AE),6106.19,0.0,0.0,Serviço Y,42,Timing
+D-00059,2025-11-21,2026-03-03,Open,Qualification,2026-01-26,Outbound,Email,Education,Centro-Oeste,A-0060,Orion Indústria 060,Carla (AE),36538.29,10961.49,0.3,Plano B,102,
+D-00060,2024-12-10,2024-12-31,Lost,Closed Lost,2024-12-16,Referral,Email,SaaS,Norte,A-0092,Atlas Solutions 092,Bruno (AE),5600.9,0.0,0.0,Serviço Y,21,Competitor
+D-00061,2024-10-20,2026-01-18,Open,Proposal,2026-01-05,Outbound,Email,Healthcare,Sul,A-0051,Nexo Indústria 051,Eva (SDR),8526.85,4263.43,0.5,Plano A,455,
+D-00062,2025-01-16,2025-03-11,Lost,Closed Lost,2025-03-02,Inbound,Email,Services,Nordeste,A-0098,Meta Group 098,Ana (AE),13299.09,0.0,0.0,Plano B,54,No Budget
+D-00063,2025-07-01,2025-08-20,Open,Qualification,2026-01-31,Outbound,Email,Manufacturing,Nordeste,A-0016,Nexo Solutions 016,Diego (AE),3333.35,1000.01,0.3,Serviço Y,50,
+D-00064,2025-11-09,2026-02-05,Lost,Closed Lost,2026-02-03,Partner,Email,Manufacturing,Sudeste,A-0001,Nova Digital 001,Bruno (AE),21864.92,0.0,0.0,Serviço X,88,No Decision
+D-00065,2025-09-30,2025-11-29,Lost,Closed Lost,2025-11-23,Inbound,Email,Manufacturing,Sul,A-0112,Nexo Comércio 112,Eva (SDR),7703.14,0.0,0.0,Plano A,60,No Decision
+D-00066,2024-10-11,2025-02-07,Open,Prospecting,2026-02-16,Partner,LinkedIn,SaaS,Norte,A-0046,Meta Digital 046,Ana (AE),65865.45,6586.54,0.1,Serviço Y,119,
+D-00067,2025-06-23,2025-08-22,Won,Closed Won,2025-08-12,Inbound,WhatsApp,Manufacturing,Norte,A-0026,Vitta Solutions 026,Carla (AE),111058.21,111058.21,1.0,Plano B,60,
+D-00068,2025-01-01,2025-02-22,Lost,Closed Lost,2025-02-18,Referral,LinkedIn,Healthcare,Sul,A-0103,Meta Serviços 103,Diego (AE),3872.09,0.0,0.0,Plano B,52,No Decision
+D-00069,2025-11-04,2026-01-07,Open,Proposal,2026-01-27,Inbound,Email,Manufacturing,Centro-Oeste,A-0011,Meta Solutions 011,Ana (AE),4936.81,2468.4,0.5,Serviço Y,64,
+D-00070,2025-11-15,2025-12-23,Open,Negotiation,2026-01-06,Partner,LinkedIn,Healthcare,Norte,A-0036,Meta Indústria 036,Ana (AE),18977.68,13284.37,0.7,Implantação,38,
+D-00071,2025-11-18,2026-01-24,Open,Negotiation,2026-02-14,Outbound,Phone,Education,Centro-Oeste,A-0005,Nova Serviços 005,Carla (AE),4723.6,3306.52,0.7,Plano A,67,
+D-00072,2025-01-14,2025-05-23,Lost,Closed Lost,2025-05-13,Event,Email,Manufacturing,Sul,A-0068,Blue Serviços 068,Bruno (AE),33349.39,0.0,0.0,Plano B,129,Competitor
+D-00073,2025-11-26,2026-01-25,Open,Negotiation,2026-01-04,Referral,LinkedIn,Services,Norte,A-0028,Apex Indústria 028,Ana (AE),159251.66,111476.16,0.7,Serviço Y,60,
+D-00074,2024-11-01,2024-12-16,Open,Prospecting,2026-02-03,Partner,Phone,Retail,Sudeste,A-0071,Meta Solutions 071,Diego (AE),13546.02,1354.6,0.1,Plano B,45,
+D-00075,2026-01-14,2026-02-12,Lost,Closed Lost,2026-01-28,Event,Email,Manufacturing,Norte,A-0004,Atlas Group 004,Carla (AE),5751.85,0.0,0.0,Plano A,29,Timing
+D-00076,2024-11-10,2024-12-05,Won,Closed Won,2024-11-30,Referral,WhatsApp,Retail,Sudeste,A-0017,Meta Serviços 017,Bruno (AE),7044.67,7044.67,1.0,Implantação,25,
+D-00077,2026-02-08,2026-05-20,Open,Qualification,2026-02-14,Inbound,Phone,Manufacturing,Sudeste,A-0020,Nova Comércio 020,Eva (SDR),6419.78,1925.93,0.3,Implantação,101,
+D-00078,2025-01-02,2025-04-02,Lost,Closed Lost,2025-03-30,Inbound,Phone,Manufacturing,Nordeste,A-0081,Apex Serviços 081,Carla (AE),5116.75,0.0,0.0,Plano B,90,Competitor
+D-00079,2024-09-25,2024-11-22,Open,Proposal,2026-01-06,Outbound,WhatsApp,Manufacturing,Centro-Oeste,A-0011,Meta Solutions 011,Diego (AE),11070.96,5535.48,0.5,Serviço Y,58,
+D-00080,2025-10-16,2026-02-06,Open,Proposal,2026-01-27,Outbound,LinkedIn,Services,Centro-Oeste,A-0039,Nova Comércio 039,Ana (AE),14856.19,7428.09,0.5,Serviço X,113,
+D-00081,2025-10-09,2025-12-15,Won,Closed Won,2025-11-30,Inbound,Email,Retail,Sudeste,A-0017,Meta Serviços 017,Ana (AE),16207.13,16207.13,1.0,Serviço Y,67,
+D-00082,2025-05-08,2025-06-22,Lost,Closed Lost,2025-06-02,Outbound,Phone,Education,Centro-Oeste,A-0111,Blue Labs 111,Eva (SDR),5457.54,0.0,0.0,Serviço Y,45,No Need
+D-00083,2025-08-23,2025-10-13,Won,Closed Won,2025-09-30,Partner,LinkedIn,Services,Nordeste,A-0007,Orion Digital 007,Eva (SDR),2919.74,2919.74,1.0,Implantação,51,
+D-00084,2025-10-13,2025-11-16,Lost,Closed Lost,2025-11-11,Outbound,LinkedIn,Manufacturing,Sudeste,A-0047,Meta Serviços 047,Bruno (AE),20391.93,0.0,0.0,Implantação,34,No Budget
+D-00085,2025-10-04,2026-02-02,Won,Closed Won,2026-01-21,Partner,Email,Education,Sul,A-0048,Nexo Tech 048,Eva (SDR),89619.89,89619.89,1.0,Implantação,121,
+D-00086,2025-12-25,2026-02-10,Lost,Closed Lost,2026-01-23,Inbound,WhatsApp,Healthcare,Sudeste,A-0067,Orion Group 067,Carla (AE),15639.83,0.0,0.0,Plano B,47,No Decision
+D-00087,2026-01-10,2026-04-28,Open,Proposal,2026-01-11,Inbound,Email,Manufacturing,Nordeste,A-0091,Prime Labs 091,Ana (AE),54145.72,27072.86,0.5,Serviço Y,108,
+D-00088,2025-12-25,2026-01-04,Open,Proposal,2026-02-11,Outbound,Email,Services,Sul,A-0034,Nexo Indústria 034,Diego (AE),18638.88,9319.44,0.5,Implantação,10,
+D-00089,2025-03-10,2025-04-06,Open,Proposal,2026-01-16,Inbound,LinkedIn,Healthcare,Sul,A-0003,Blue Indústria 003,Bruno (AE),7525.11,3762.55,0.5,Implantação,27,
+D-00090,2025-03-27,2025-07-05,Lost,Closed Lost,2025-06-25,Inbound,Email,Retail,Sul,A-0072,Blue Group 072,Carla (AE),4563.42,0.0,0.0,Implantação,100,Other
+D-00091,2026-01-04,2026-03-26,Open,Qualification,2026-02-01,Event,Other,Education,Norte,A-0025,Vitta Comércio 025,Bruno (AE),119824.68,35947.41,0.3,Serviço X,81,
+D-00092,2025-06-17,2025-08-30,Lost,Closed Lost,2025-08-20,Outbound,LinkedIn,Manufacturing,Nordeste,A-0016,Nexo Solutions 016,Eva (SDR),10311.13,0.0,0.0,Plano B,74,Competitor
+D-00093,2025-12-30,2026-02-03,Open,Prospecting,2026-02-15,Partner,Email,Services,Norte,A-0028,Apex Indústria 028,Eva (SDR),16605.69,1660.57,0.1,Implantação,35,
+D-00094,2024-12-07,2025-01-19,Lost,Closed Lost,2025-01-08,Inbound,Other,Education,Centro-Oeste,A-0053,Sul Serviços 053,Diego (AE),5776.48,0.0,0.0,Plano B,43,Timing
+D-00095,2025-07-21,2025-09-01,Open,Negotiation,2026-02-16,Outbound,LinkedIn,SaaS,Sul,A-0037,Blue Labs 037,Ana (AE),57006.04,39904.23,0.7,Plano A,42,
+D-00096,2025-10-07,2025-11-30,Lost,Closed Lost,2025-11-14,Event,Phone,SaaS,Centro-Oeste,A-0101,Atlas Indústria 101,Eva (SDR),7788.28,0.0,0.0,Plano A,54,Competitor
+D-00097,2026-02-14,2026-04-12,Open,Qualification,2026-02-17,Inbound,WhatsApp,Services,Sudeste,A-0064,Atlas Tech 064,Diego (AE),18134.67,5440.4,0.3,Serviço X,57,
+D-00098,2025-02-22,2025-05-12,Won,Closed Won,2025-05-03,Partner,Email,Education,Sul,A-0079,Orion Solutions 079,Ana (AE),127513.49,127513.49,1.0,Plano B,79,
+D-00099,2025-11-27,2026-01-05,Open,Prospecting,2026-01-17,Outbound,Email,Services,Nordeste,A-0097,Vitta Indústria 097,Carla (AE),5599.48,559.95,0.1,Serviço X,39,
+D-00100,2025-07-11,2025-08-25,Lost,Closed Lost,2025-08-16,Inbound,Email,SaaS,Sudeste,A-0089,Nova Comércio 089,Ana (AE),9079.93,0.0,0.0,Implantação,45,No Decision
+D-00101,2024-11-18,2024-12-29,Open,Qualification,2026-01-16,Outbound,Email,Manufacturing,Sul,A-0068,Blue Serviços 068,Ana (AE),34093.69,10228.11,0.3,Implantação,41,
+D-00102,2025-11-22,2026-02-11,Lost,Closed Lost,2026-01-31,Referral,LinkedIn,SaaS,Sul,A-0015,Nova Solutions 015,Carla (AE),18263.44,0.0,0.0,Plano A,81,No Budget
+D-00103,2024-09-18,2024-10-12,Open,Negotiation,2026-02-07,Partner,LinkedIn,Healthcare,Sul,A-0051,Nexo Indústria 051,Bruno (AE),5898.0,4128.6,0.7,Plano A,24,
+D-00104,2025-01-12,2025-04-29,Open,Qualification,2026-01-15,Outbound,Phone,Healthcare,Nordeste,A-0099,Nexo Tech 099,Eva (SDR),15924.68,4777.4,0.3,Serviço Y,107,
+D-00105,2025-01-10,2025-03-30,Open,Negotiation,2026-01-15,Outbound,Email,Healthcare,Sudeste,A-0084,Meta Indústria 084,Eva (SDR),13887.09,9720.96,0.7,Plano B,79,
+D-00106,2025-11-04,2025-12-22,Lost,Closed Lost,2025-12-14,Inbound,Email,Education,Sudeste,A-0069,Orion Group 069,Carla (AE),7041.85,0.0,0.0,Plano A,48,No Budget
+D-00107,2024-11-03,2024-11-28,Won,Closed Won,2024-11-22,Referral,Email,SaaS,Centro-Oeste,A-0013,Blue Serviços 013,Diego (AE),10421.44,10421.44,1.0,Plano A,25,
+D-00108,2026-01-24,2026-01-11,Open,Qualification,2026-01-26,Referral,Email,SaaS,Nordeste,A-0038,Sul Solutions 038,Diego (AE),10552.69,3165.81,0.3,Plano B,-13,
+D-00109,2025-02-22,2025-04-02,Open,Qualification,2026-02-07,Inbound,WhatsApp,Manufacturing,Nordeste,A-0081,Apex Serviços 081,Ana (AE),13781.98,4134.59,0.3,Serviço Y,39,
+D-00110,2025-12-24,2026-02-11,Lost,Closed Lost,2026-02-01,Referral,Phone,Manufacturing,Sudeste,A-0031,Nexo Group 031,Diego (AE),15487.01,0.0,0.0,Implantação,49,Timing
+D-00111,2025-03-23,2025-05-07,Lost,Closed Lost,2025-04-20,Partner,WhatsApp,Services,Sudeste,A-0043,Atlas Tech 043,Bruno (AE),25721.47,0.0,0.0,Plano A,45,No Decision
+D-00112,2025-03-28,2025-07-15,Open,Negotiation,2026-02-05,Inbound,Email,Manufacturing,Sul,A-0112,Nexo Comércio 112,Eva (SDR),17142.09,11999.46,0.7,Plano A,109,
+D-00113,2025-10-07,2025-12-24,Lost,Closed Lost,2025-12-12,Outbound,WhatsApp,SaaS,Norte,A-0118,Meta Serviços 118,Bruno (AE),10978.94,0.0,0.0,Serviço X,78,No Budget
+D-00114,2025-03-23,2026-02-03,Open,Qualification,2026-01-25,Partner,Email,Education,Sul,A-0048,Nexo Tech 048,Eva (SDR),33247.57,9974.27,0.3,Implantação,317,
+D-00115,2025-05-05,2025-06-09,Won,Closed Won,2025-05-21,Partner,LinkedIn,Services,Sudeste,A-0064,Atlas Tech 064,Bruno (AE),56991.68,56991.68,1.0,Serviço Y,35,
+D-00116,2026-01-09,2026-01-08,Open,Proposal,2026-02-04,Inbound,Email,Services,Centro-Oeste,A-0024,Vitta Labs 024,Carla (AE),25368.22,12684.11,0.5,Plano A,-1,
+D-00117,2024-11-04,2025-01-31,Open,Prospecting,2026-02-18,Inbound,WhatsApp,Manufacturing,Nordeste,A-0091,Prime Labs 091,Carla (AE),22579.07,2257.91,0.1,Implantação,88,
+D-00118,2024-09-13,2024-10-15,Open,Prospecting,2026-02-03,Outbound,WhatsApp,Manufacturing,Sul,A-0068,Blue Serviços 068,Bruno (AE),94216.83,9421.68,0.1,Serviço Y,32,
+D-00119,2025-03-11,2025-04-08,Lost,Closed Lost,2025-04-05,Outbound,LinkedIn,Education,Centro-Oeste,A-0080,Apex Digital 080,Bruno (AE),21640.84,0.0,0.0,Serviço Y,28,Competitor
+D-00120,2024-11-30,2025-01-01,Open,Qualification,2026-02-16,Inbound,Email,Retail,Centro-Oeste,A-0052,Sul Solutions 052,Ana (AE),12718.75,3815.62,0.3,Serviço Y,32,
+D-00121,2025-04-19,2026-02-04,Open,Negotiation,2026-01-12,Partner,Email,Services,Norte,A-0028,Apex Indústria 028,Eva (SDR),51838.1,36286.67,0.7,Implantação,291,
+D-00122,2025-01-21,2025-02-18,Won,Closed Won,2025-01-31,Outbound,Phone,Services,Nordeste,A-0097,Vitta Indústria 097,Carla (AE),17726.38,17726.38,1.0,Implantação,28,
+D-00123,2025-08-16,2025-10-07,Won,Closed Won,2025-09-21,Outbound,WhatsApp,Services,Nordeste,A-0007,Orion Digital 007,Ana (AE),4530.7,4530.7,1.0,Implantação,52,
+D-00124,2026-01-11,2026-05-02,Open,Prospecting,2026-02-09,Inbound,WhatsApp,Healthcare,Centro-Oeste,A-0030,Vitta Labs 030,Diego (AE),13689.23,1368.92,0.1,Plano B,111,
+D-00125,2025-09-29,2025-12-21,Lost,Closed Lost,2025-12-06,Outbound,WhatsApp,Retail,Sudeste,A-0041,Sul Serviços 041,Eva (SDR),7070.52,0.0,0.0,Plano A,83,No Decision
+D-00126,2024-12-10,2025-03-09,Won,Closed Won,2025-02-28,Partner,Phone,Manufacturing,Norte,A-0004,Atlas Group 004,Carla (AE),2813.86,2813.86,1.0,Plano A,89,
+D-00127,2026-02-11,2026-02-14,Lost,Closed Lost,2026-02-11,Inbound,Email,Healthcare,Sul,A-0022,Atlas Digital 022,Bruno (AE),63509.05,0.0,0.0,Plano B,5,No Budget
+D-00128,2026-01-16,2026-02-16,Lost,Closed Lost,2026-02-05,Inbound,LinkedIn,Retail,Nordeste,A-0077,Nexo Indústria 077,Ana (AE),11006.59,0.0,0.0,Implantação,31,Timing
+D-00129,2025-07-21,2025-08-22,Lost,Closed Lost,2025-08-02,Outbound,WhatsApp,Retail,Sul,A-0078,Atlas Indústria 078,Diego (AE),18811.57,0.0,0.0,Plano B,32,Competitor
+D-00130,2025-03-19,2025-05-10,Open,Qualification,2026-01-04,Inbound,Phone,Healthcare,Sul,A-0076,Orion Group 076,Diego (AE),1516.85,455.06,0.3,Serviço Y,52,
+D-00131,2025-11-03,2026-01-28,Won,Closed Won,2026-01-24,Outbound,LinkedIn,Retail,Nordeste,A-0102,Nova Group 102,Carla (AE),6500.92,6500.92,1.0,Serviço Y,86,
+D-00132,2024-12-16,2026-02-01,Open,Proposal,2026-02-04,Outbound,WhatsApp,Healthcare,Nordeste,A-0099,Nexo Tech 099,Ana (AE),3450.01,1725.01,0.5,Serviço Y,412,
+D-00133,2026-01-31,2026-01-22,Open,Negotiation,2026-02-16,Outbound,LinkedIn,Manufacturing,Sudeste,A-0096,Atlas Comércio 096,Carla (AE),8969.94,6278.96,0.7,Implantação,-9,
+D-00134,2024-12-23,2025-01-17,Open,Prospecting,2026-02-11,Outbound,LinkedIn,Services,Sul,A-0107,Sul Digital 107,Ana (AE),5614.35,561.44,0.1,Serviço Y,25,
+D-00135,2024-09-19,2024-11-05,Lost,Closed Lost,2024-10-22,Event,WhatsApp,Manufacturing,Sul,A-0109,Nova Tech 109,Diego (AE),14348.95,0.0,0.0,Implantação,47,Timing
+D-00136,2025-03-03,2025-04-25,Won,Closed Won,2025-04-21,Outbound,Email,Services,Centro-Oeste,A-0024,Vitta Labs 024,Ana (AE),11440.25,11440.25,1.0,Implantação,53,
+D-00137,2024-12-09,2025-02-15,Lost,Closed Lost,2025-01-26,Outbound,Email,Healthcare,Sul,A-0103,Meta Serviços 103,Bruno (AE),32428.37,0.0,0.0,Serviço Y,68,No Decision
+D-00138,2024-12-21,2025-02-09,Open,Qualification,2026-02-07,Partner,Phone,Services,Centro-Oeste,A-0045,Vitta Group 045,Ana (AE),29521.71,8856.51,0.3,Implantação,50,
+D-00139,2025-09-13,2025-10-25,Open,Proposal,2026-01-18,Outbound,LinkedIn,SaaS,Sudeste,A-0089,Nova Comércio 089,Carla (AE),8463.87,4231.93,0.5,Serviço Y,42,
+D-00140,2025-06-18,2025-10-03,Open,Qualification,2026-01-04,Outbound,Email,Education,Nordeste,A-0018,Atlas Digital 018,Eva (SDR),56421.66,16926.5,0.3,Serviço Y,107,
+D-00141,2025-11-24,2026-02-13,Lost,Closed Lost,2026-01-25,Inbound,Email,Education,Norte,A-0063,Apex Serviços 063,Diego (AE),6721.23,0.0,0.0,Plano B,81,Other
+D-00142,2026-02-01,2026-01-07,Open,Prospecting,2026-02-11,Event,LinkedIn,SaaS,Sul,A-0015,Nova Solutions 015,Carla (AE),9576.75,957.67,0.1,Plano A,-25,
+D-00143,2025-06-27,2025-10-01,Lost,Closed Lost,2025-09-16,Event,WhatsApp,Manufacturing,Sul,A-0112,Nexo Comércio 112,Bruno (AE),3151.51,0.0,0.0,Plano B,96,Other
+D-00144,2025-02-12,2025-04-10,Open,Negotiation,2026-02-01,Inbound,LinkedIn,Education,Sul,A-0079,Orion Solutions 079,Ana (AE),22300.03,15610.02,0.7,Serviço X,57,
+D-00145,2026-02-04,2026-01-28,Open,Negotiation,2026-02-05,Partner,Phone,Services,Centro-Oeste,A-0116,Sul Solutions 116,Eva (SDR),10783.77,7548.64,0.7,Serviço X,-7,
+D-00146,2025-05-07,2025-07-15,Lost,Closed Lost,2025-06-27,Outbound,WhatsApp,Services,Nordeste,A-0098,Meta Group 098,Ana (AE),16766.97,0.0,0.0,Serviço Y,69,No Budget
+D-00147,2025-06-07,2025-08-11,Open,Proposal,2026-01-15,Inbound,Email,SaaS,Sudeste,A-0089,Nova Comércio 089,Eva (SDR),43824.23,21912.12,0.5,Plano A,65,
+D-00148,2025-10-08,2026-01-19,Open,Proposal,2026-02-17,Outbound,Email,Services,Norte,A-0028,Apex Indústria 028,Bruno (AE),44460.97,22230.49,0.5,Serviço Y,103,
+D-00149,2025-01-01,2026-01-25,Open,Negotiation,2026-02-02,Event,Email,SaaS,Norte,A-0119,Apex Labs 119,Ana (AE),120905.91,84634.14,0.7,Plano B,389,
+D-00150,2024-11-19,2025-01-15,Won,Closed Won,2024-12-29,Outbound,WhatsApp,Education,Sul,A-0048,Nexo Tech 048,Ana (AE),92769.61,92769.61,1.0,Plano B,57,
+D-00151,2024-11-14,2026-02-12,Open,Prospecting,2026-02-12,Inbound,LinkedIn,Retail,Sudeste,A-0017,Meta Serviços 017,Carla (AE),10742.02,1074.2,0.1,Plano A,455,
+D-00152,2024-12-10,2025-02-22,Lost,Closed Lost,2025-02-09,Referral,Phone,Retail,Sudeste,A-0041,Sul Serviços 041,Bruno (AE),6774.1,0.0,0.0,Plano B,74,No Need
+D-00153,2025-04-02,2025-06-01,Open,Negotiation,2026-02-03,Referral,Email,Manufacturing,Nordeste,A-0081,Apex Serviços 081,Ana (AE),10913.98,7639.79,0.7,Plano A,60,
+D-00154,2025-06-06,2025-08-31,Open,Qualification,2026-02-06,Outbound,WhatsApp,Healthcare,Centro-Oeste,A-0083,Blue Group 083,Carla (AE),2779.18,833.75,0.3,Plano A,86,
+D-00155,2025-10-02,2025-12-05,Lost,Closed Lost,2025-11-23,Inbound,LinkedIn,SaaS,Nordeste,A-0038,Sul Solutions 038,Diego (AE),19143.5,0.0,0.0,Plano B,64,No Budget
+D-00156,2025-01-09,2025-02-01,Won,Closed Won,2025-01-29,Partner,WhatsApp,Education,Sudeste,A-0050,Prime Comércio 050,Bruno (AE),52770.28,52770.28,1.0,Plano A,23,
+D-00157,2025-10-08,2025-11-05,Won,Closed Won,2025-10-18,Outbound,LinkedIn,SaaS,Sul,A-0065,Orion Serviços 065,Diego (AE),3482.81,3482.81,1.0,Implantação,28,
+D-00158,2025-03-23,2025-04-29,Lost,Closed Lost,2025-04-20,Partner,WhatsApp,Services,Nordeste,A-0104,Nexo Tech 104,Carla (AE),20416.29,0.0,0.0,Plano A,37,No Need
+D-00159,2024-11-23,2025-02-24,Lost,Closed Lost,2025-02-11,Inbound,WhatsApp,SaaS,Norte,A-0119,Apex Labs 119,Carla (AE),37397.68,0.0,0.0,Plano B,93,No Need
+D-00160,2026-02-13,2026-04-16,Open,Negotiation,2026-02-16,Inbound,WhatsApp,Healthcare,Sudeste,A-0067,Orion Group 067,Ana (AE),66307.88,46415.52,0.7,Serviço X,62,
+D-00161,2026-02-14,2026-02-08,Won,Closed Won,2026-02-06,Inbound,Phone,Education,Sul,A-0009,Orion Indústria 009,Carla (AE),24929.25,24929.25,1.0,Plano B,5,
+D-00162,2025-04-17,2025-05-11,Open,Negotiation,2026-01-04,Inbound,LinkedIn,Manufacturing,Centro-Oeste,A-0095,Prime Digital 095,Eva (SDR),8594.75,6016.33,0.7,Serviço Y,24,
+D-00163,2025-10-30,2025-12-27,Won,Closed Won,2025-12-09,Inbound,Email,Services,Norte,A-0029,Prime Labs 029,Diego (AE),28087.84,28087.84,1.0,Serviço X,58,
+D-00164,2024-10-13,2024-12-08,Won,Closed Won,2024-11-29,Referral,LinkedIn,Retail,Centro-Oeste,A-0052,Sul Solutions 052,Bruno (AE),6382.0,6382.0,1.0,Implantação,56,
+D-00165,2025-12-15,2026-02-13,Won,Closed Won,2026-02-11,Inbound,Phone,Education,Sul,A-0048,Nexo Tech 048,Diego (AE),59506.71,59506.71,1.0,Plano B,60,
+D-00166,2025-08-05,2025-09-27,Lost,Closed Lost,2025-09-23,Inbound,Email,Manufacturing,Sudeste,A-0001,Nova Digital 001,Diego (AE),30707.33,0.0,0.0,Plano B,53,No Need
+D-00167,2024-10-10,2025-01-08,Won,Closed Won,2025-01-05,Partner,WhatsApp,SaaS,Norte,A-0118,Meta Serviços 118,Carla (AE),6166.27,6166.27,1.0,Implantação,90,
+D-00168,2025-11-15,2026-02-15,Lost,Closed Lost,2026-02-10,Partner,WhatsApp,Services,Sudeste,A-0085,Apex Solutions 085,Diego (AE),11489.48,0.0,0.0,Serviço X,92,No Need
+D-00169,2025-02-02,2025-03-24,Lost,Closed Lost,2025-03-13,Outbound,Other,Education,Sul,A-0014,Atlas Indústria 014,Bruno (AE),17050.11,0.0,0.0,Plano B,50,No Budget
+D-00170,2024-10-07,2024-11-09,Lost,Closed Lost,2024-10-26,Inbound,LinkedIn,Services,Norte,A-0028,Apex Indústria 028,Ana (AE),97342.94,0.0,0.0,Implantação,33,No Need
+D-00171,2025-12-03,2026-01-15,Won,Closed Won,2026-01-01,Referral,Email,Retail,Sul,A-0072,Blue Group 072,Carla (AE),12644.23,12644.23,1.0,Plano A,43,
+D-00172,2025-09-12,2026-01-27,Open,Proposal,2026-02-11,Inbound,Phone,SaaS,Sudeste,A-0088,Sul Labs 088,Carla (AE),13202.91,6601.45,0.5,Plano A,137,
+D-00173,2024-10-09,2024-11-15,Won,Closed Won,2024-11-12,Outbound,LinkedIn,Education,Centro-Oeste,A-0060,Orion Indústria 060,Carla (AE),6352.04,6352.04,1.0,Serviço X,37,
+D-00174,2025-05-05,2025-08-11,Lost,Closed Lost,2025-07-23,Inbound,Email,Healthcare,Centro-Oeste,A-0083,Blue Group 083,Carla (AE),5593.56,0.0,0.0,Plano B,98,No Need
+D-00175,2024-09-15,2024-12-18,Won,Closed Won,2024-12-09,Outbound,Phone,Services,Sul,A-0049,Meta Serviços 049,Carla (AE),14415.56,14415.56,1.0,Implantação,94,
+D-00176,2024-09-26,2026-01-14,Open,Prospecting,2026-02-15,Outbound,LinkedIn,Healthcare,Sul,A-0115,Nexo Comércio 115,Diego (AE),31383.94,3138.39,0.1,Implantação,475,
+D-00177,2025-04-08,2025-07-09,Open,Proposal,2026-01-13,Inbound,WhatsApp,Services,Centro-Oeste,A-0074,Atlas Solutions 074,Diego (AE),5631.78,2815.89,0.5,Serviço X,92,
+D-00178,2025-03-07,2025-06-11,Won,Closed Won,2025-06-03,Inbound,Email,Manufacturing,Sul,A-0108,Nova Solutions 108,Carla (AE),17741.33,17741.33,1.0,Plano B,96,
+D-00179,2025-01-07,2025-03-15,Open,Negotiation,2026-01-07,Outbound,Phone,Manufacturing,Nordeste,A-0044,Meta Labs 044,Ana (AE),15662.86,10964.0,0.7,Plano A,67,
+D-00180,2025-10-06,2026-01-22,Open,Negotiation,2026-01-10,Inbound,Phone,Healthcare,Sul,A-0076,Orion Group 076,Ana (AE),4279.75,2995.83,0.7,Serviço Y,108,
+D-00181,2025-08-27,2025-11-05,Open,Negotiation,2026-01-13,Partner,Email,Services,Norte,A-0029,Prime Labs 029,Bruno (AE),178411.91,124888.33,0.7,Plano B,70,
+D-00182,2024-09-29,2024-11-26,Won,Closed Won,2024-11-19,Inbound,WhatsApp,Services,Centro-Oeste,A-0024,Vitta Labs 024,Eva (SDR),40334.9,40334.9,1.0,Serviço Y,58,
+D-00183,2024-11-25,2026-01-24,Open,Proposal,2026-01-21,Outbound,Email,Retail,Nordeste,A-0106,Meta Solutions 106,Eva (SDR),17037.05,8518.53,0.5,Plano B,425,
+D-00184,2025-10-30,2026-02-13,Open,Proposal,2026-02-16,Outbound,Email,Healthcare,Sul,A-0022,Atlas Digital 022,Bruno (AE),145174.16,72587.08,0.5,Serviço Y,106,
+D-00185,2025-06-24,2025-09-07,Open,Proposal,2026-02-08,Referral,Email,Healthcare,Sul,A-0003,Blue Indústria 003,Carla (AE),4864.88,2432.44,0.5,Implantação,75,
+D-00186,2025-11-14,2025-12-08,Won,Closed Won,2025-11-24,Outbound,WhatsApp,SaaS,Norte,A-0021,Sul Comércio 021,Eva (SDR),7626.52,7626.52,1.0,Implantação,24,
+D-00187,2026-01-11,2026-02-08,Lost,Closed Lost,2026-01-29,Inbound,WhatsApp,Manufacturing,Sudeste,A-0020,Nova Comércio 020,Ana (AE),11349.0,0.0,0.0,Plano A,28,Timing
+D-00188,2024-11-28,2024-12-23,Lost,Closed Lost,2024-12-17,Outbound,LinkedIn,Healthcare,Centro-Oeste,A-0083,Blue Group 083,Eva (SDR),9070.93,0.0,0.0,Serviço X,25,No Decision
+D-00189,2024-12-04,2025-03-02,Open,Qualification,2026-01-19,Partner,Email,Manufacturing,Centro-Oeste,A-0011,Meta Solutions 011,Bruno (AE),24354.04,7306.21,0.3,Plano A,88,
+D-00190,2025-04-25,2025-05-30,Open,Proposal,2026-01-21,Inbound,WhatsApp,Services,Nordeste,A-0061,Apex Tech 061,Diego (AE),5702.67,2851.34,0.5,Implantação,35,
+D-00191,2025-02-20,2026-01-13,Open,Negotiation,2026-01-24,Outbound,Other,Healthcare,Sul,A-0022,Atlas Digital 022,Eva (SDR),16539.24,11577.47,0.7,Plano B,327,
+D-00192,2025-07-26,2025-10-26,Open,Prospecting,2026-02-12,Partner,WhatsApp,SaaS,Sul,A-0110,Blue Serviços 110,Eva (SDR),10579.77,1057.98,0.1,Implantação,92,
+D-00193,2024-12-13,2025-02-03,Lost,Closed Lost,2025-01-24,Referral,Phone,Education,Nordeste,A-0073,Apex Solutions 073,Eva (SDR),300000.0,0.0,0.0,Serviço X,52,No Budget
+D-00194,2025-10-13,2025-12-17,Won,Closed Won,2025-12-15,Outbound,Phone,Manufacturing,Norte,A-0019,Sul Solutions 019,Bruno (AE),28991.89,28991.89,1.0,Plano B,65,
+D-00195,2025-08-07,2025-09-28,Lost,Closed Lost,2025-09-13,Referral,WhatsApp,Services,Nordeste,A-0105,Meta Serviços 105,Diego (AE),14180.1,0.0,0.0,Plano B,52,Competitor
+D-00196,2024-11-26,2025-01-24,Open,Prospecting,2026-01-24,Outbound,LinkedIn,Education,Norte,A-0025,Vitta Comércio 025,Bruno (AE),15913.14,1591.31,0.1,Serviço X,59,
+D-00197,2025-01-12,2025-02-02,Won,Closed Won,2025-01-24,Partner,Email,SaaS,Nordeste,A-0100,Orion Digital 100,Eva (SDR),4887.17,4887.17,1.0,Serviço Y,21,
+D-00198,2025-09-12,2025-10-13,Open,Proposal,2026-01-25,Outbound,LinkedIn,Education,Norte,A-0063,Apex Serviços 063,Eva (SDR),20853.05,10426.52,0.5,Plano B,31,
+D-00199,2024-10-16,2025-01-02,Lost,Closed Lost,2024-12-27,Inbound,WhatsApp,SaaS,Norte,A-0021,Sul Comércio 021,Bruno (AE),11226.86,0.0,0.0,Implantação,78,No Budget
+D-00200,2025-02-20,2025-04-11,Won,Closed Won,2025-04-03,Event,WhatsApp,Retail,Nordeste,A-0077,Nexo Indústria 077,Carla (AE),13538.27,13538.27,1.0,Serviço X,50,
+D-00201,2025-12-17,2026-02-13,Open,Qualification,2026-01-28,Inbound,LinkedIn,Services,Centro-Oeste,A-0039,Nova Comércio 039,Bruno (AE),65894.42,19768.33,0.3,Serviço X,58,
+D-00202,2025-06-06,2025-08-14,Lost,Closed Lost,2025-08-02,Event,WhatsApp,SaaS,Sul,A-0082,Vitta Digital 082,Carla (AE),13187.06,0.0,0.0,Plano B,69,No Decision
+D-00203,2025-01-17,2025-03-21,Open,Proposal,2026-02-04,Referral,LinkedIn,Manufacturing,Nordeste,A-0093,Atlas Labs 093,Bruno (AE),2735.44,1367.72,0.5,Plano A,63,
+D-00204,2025-12-27,2026-02-16,Won,Closed Won,2026-01-28,Inbound,WhatsApp,Services,Centro-Oeste,A-0117,Sul Labs 117,Bruno (AE),19394.32,19394.32,1.0,Implantação,51,
+D-00205,2025-03-02,2025-04-28,Open,Qualification,2026-02-11,Inbound,Phone,SaaS,Sudeste,A-0088,Sul Labs 088,Bruno (AE),34078.95,10223.69,0.3,Serviço Y,57,
+D-00206,2025-12-21,2026-01-14,Lost,Closed Lost,2026-01-08,Inbound,Phone,Services,Nordeste,A-0007,Orion Digital 007,Eva (SDR),24450.62,0.0,0.0,Implantação,24,Timing
+D-00207,2025-01-14,2026-01-21,Open,Proposal,2026-01-09,Inbound,WhatsApp,Manufacturing,Norte,A-0026,Vitta Solutions 026,Carla (AE),13950.52,6975.26,0.5,Implantação,372,
+D-00208,2025-11-09,2025-12-01,Open,Qualification,2026-01-09,Outbound,WhatsApp,Retail,Centro-Oeste,A-0052,Sul Solutions 052,Ana (AE),15114.15,4534.25,0.3,Plano A,22,
+D-00209,2025-05-08,2025-09-08,Lost,Closed Lost,2025-08-21,Outbound,WhatsApp,Services,Norte,A-0029,Prime Labs 029,Ana (AE),70979.37,0.0,0.0,Plano B,123,Timing
+D-00210,2026-02-14,2026-02-15,Lost,Closed Lost,2026-02-12,Event,LinkedIn,Manufacturing,Nordeste,A-0044,Meta Labs 044,Ana (AE),6591.24,0.0,0.0,Plano B,5,No Budget
+D-00211,2025-03-31,2025-04-26,Open,Qualification,2026-02-15,Partner,WhatsApp,Healthcare,Sudeste,A-0094,Blue Digital 094,Ana (AE),2667.35,800.21,0.3,Serviço Y,26,
+D-00212,2024-12-15,2026-01-15,Open,Qualification,2026-02-01,Inbound,WhatsApp,Healthcare,Sudeste,A-0084,Meta Indústria 084,Ana (AE),3705.3,1111.59,0.3,Plano B,396,
+D-00213,2025-01-14,2025-02-26,Lost,Closed Lost,2025-02-13,Inbound,Email,SaaS,Norte,A-0054,Prime Tech 054,Diego (AE),13245.77,0.0,0.0,Plano A,43,No Decision
+D-00214,2025-10-20,2026-01-09,Lost,Closed Lost,2026-01-03,Partner,LinkedIn,SaaS,Nordeste,A-0038,Sul Solutions 038,Eva (SDR),3446.89,0.0,0.0,Plano B,81,No Decision
+D-00215,2024-11-27,2025-01-21,Lost,Closed Lost,2025-01-08,Inbound,Email,SaaS,Nordeste,A-0100,Orion Digital 100,Ana (AE),8943.4,0.0,0.0,Serviço X,55,No Budget
+D-00216,2025-07-13,2025-11-13,Lost,Closed Lost,2025-11-09,Inbound,Phone,Healthcare,Sudeste,A-0055,Prime Indústria 055,Diego (AE),67601.03,0.0,0.0,Plano B,123,Competitor
+D-00217,2025-09-12,2026-02-14,Open,Proposal,2026-02-08,Outbound,Phone,Services,Nordeste,A-0105,Meta Serviços 105,Bruno (AE),6868.43,3434.22,0.5,Serviço Y,155,
+D-00218,2024-12-11,2025-04-03,Open,Negotiation,2026-02-10,Outbound,WhatsApp,SaaS,Norte,A-0054,Prime Tech 054,Carla (AE),22079.48,15455.64,0.7,Serviço X,113,
+D-00219,2026-01-03,2026-04-06,Open,Proposal,2026-02-04,Inbound,WhatsApp,SaaS,Norte,A-0118,Meta Serviços 118,Carla (AE),15711.93,7855.96,0.5,Plano A,93,
+D-00220,2025-08-08,2025-11-07,Open,Prospecting,2026-01-10,Partner,Email,Healthcare,Sudeste,A-0067,Orion Group 067,Ana (AE),19878.71,1987.87,0.1,Serviço X,91,
+D-00221,2024-10-21,2026-02-03,Open,Qualification,2026-01-14,Referral,Phone,Healthcare,Sul,A-0002,Atlas Comércio 002,Diego (AE),22403.52,6721.06,0.3,Plano A,470,
+D-00222,2025-09-18,2025-10-12,Open,Qualification,2026-02-18,Outbound,LinkedIn,Retail,Centro-Oeste,A-0052,Sul Solutions 052,Ana (AE),15213.55,4564.07,0.3,Serviço Y,24,
+D-00223,2024-11-28,2025-01-15,Open,Prospecting,2026-01-28,Outbound,Email,Retail,Nordeste,A-0102,Nova Group 102,Bruno (AE),11805.44,1180.54,0.1,Serviço Y,48,
+D-00224,2025-12-24,2026-02-13,Lost,Closed Lost,2026-02-08,Partner,Email,SaaS,Norte,A-0092,Atlas Solutions 092,Ana (AE),36678.55,0.0,0.0,Serviço X,51,No Decision
+D-00225,2024-10-12,2024-12-27,Lost,Closed Lost,2024-12-19,Partner,Email,Healthcare,Sul,A-0115,Nexo Comércio 115,Diego (AE),10887.9,0.0,0.0,Implantação,76,No Need
+D-00226,2025-08-08,2025-11-03,Open,Qualification,2026-01-14,Referral,LinkedIn,Education,Sul,A-0014,Atlas Indústria 014,Ana (AE),84278.66,25283.6,0.3,Implantação,87,
+D-00227,2025-11-13,2026-02-17,Open,Qualification,2026-01-29,Referral,WhatsApp,Manufacturing,Sul,A-0108,Nova Solutions 108,Diego (AE),76592.09,22977.63,0.3,Plano B,96,
+D-00228,2026-01-25,2026-02-08,Lost,Closed Lost,2026-02-03,Outbound,WhatsApp,SaaS,Sudeste,A-0113,Apex Group 113,Ana (AE),23871.37,0.0,0.0,Implantação,14,Other
+D-00229,2025-03-20,2025-05-03,Won,Closed Won,2025-04-20,Partner,Other,SaaS,Sul,A-0027,Nexo Solutions 027,Bruno (AE),58962.37,58962.37,1.0,Plano B,44,
+D-00230,2025-12-31,2026-02-08,Open,Prospecting,2026-02-15,Partner,Phone,Services,Nordeste,A-0075,Apex Tech 075,Bruno (AE),10967.35,1096.74,0.1,Serviço X,39,
+D-00231,2024-10-23,2024-11-16,Open,Proposal,2026-01-21,Partner,Email,Manufacturing,Norte,A-0026,Vitta Solutions 026,Eva (SDR),4447.83,2223.91,0.5,Plano A,24,
+D-00232,2024-12-09,2025-03-26,Open,Negotiation,2026-01-14,Partner,Email,Education,Sul,A-0079,Orion Solutions 079,Diego (AE),50944.86,35661.4,0.7,Plano A,107,
+D-00233,2024-10-21,2025-02-14,Open,Proposal,2026-01-11,Referral,LinkedIn,Healthcare,Sul,A-0002,Atlas Comércio 002,Eva (SDR),26676.58,13338.29,0.5,Plano B,116,
+D-00234,2025-03-16,2025-05-10,Open,Prospecting,2026-02-10,Event,Email,SaaS,Nordeste,A-0100,Orion Digital 100,Carla (AE),11881.24,1188.12,0.1,Plano B,55,
+D-00235,2025-02-07,2025-05-08,Open,Proposal,2026-01-04,Event,WhatsApp,Services,Nordeste,A-0075,Apex Tech 075,Ana (AE),4451.39,2225.7,0.5,Implantação,90,
+D-00236,2025-07-18,2025-09-28,Lost,Closed Lost,2025-09-16,Outbound,LinkedIn,Manufacturing,Sul,A-0068,Blue Serviços 068,Ana (AE),26492.99,0.0,0.0,Implantação,72,Other
+D-00237,2025-08-31,2025-12-09,Won,Closed Won,2025-11-30,Event,Phone,SaaS,Nordeste,A-0038,Sul Solutions 038,Carla (AE),2166.48,2166.48,1.0,Plano A,100,
+D-00238,2024-10-06,2024-12-28,Lost,Closed Lost,2024-12-12,Inbound,Email,SaaS,Sudeste,A-0088,Sul Labs 088,Diego (AE),17969.99,0.0,0.0,Serviço X,83,No Decision
+D-00239,2026-01-07,2026-02-06,Won,Closed Won,2026-01-29,Inbound,Email,Services,Nordeste,A-0006,Blue Solutions 006,Bruno (AE),4214.61,4214.61,1.0,Implantação,30,
+D-00240,2025-11-04,2026-02-13,Open,Qualification,2026-02-15,Event,WhatsApp,Services,Sul,A-0107,Sul Digital 107,Diego (AE),3037.72,911.32,0.3,Plano A,101,
+D-00241,2025-02-25,2026-02-17,Open,Prospecting,2026-01-08,Referral,LinkedIn,Retail,Nordeste,A-0102,Nova Group 102,Diego (AE),6169.16,616.92,0.1,Serviço Y,357,
+D-00242,2024-10-30,2024-11-20,Lost,Closed Lost,2024-11-03,Inbound,WhatsApp,Services,Nordeste,A-0097,Vitta Indústria 097,Carla (AE),16300.09,0.0,0.0,Implantação,21,Timing
+D-00243,2025-02-03,2025-05-14,Lost,Closed Lost,2025-05-01,Referral,Email,Education,Sudeste,A-0069,Orion Group 069,Diego (AE),2251.72,0.0,0.0,Plano B,100,Other
+D-00244,2024-09-07,2024-12-28,Open,Proposal,2026-01-23,Outbound,LinkedIn,Retail,Sudeste,A-0071,Meta Solutions 071,Ana (AE),14356.65,7178.32,0.5,Implantação,112,
+D-00245,2026-02-02,2026-05-03,Open,Negotiation,2026-02-16,Inbound,Email,Manufacturing,Norte,A-0019,Sul Solutions 019,Diego (AE),10283.44,7198.41,0.7,Implantação,90,
+D-00246,2025-06-20,2025-09-08,Won,Closed Won,2025-08-23,Inbound,WhatsApp,Manufacturing,Sul,A-0086,Blue Indústria 086,Bruno (AE),31701.95,31701.95,1.0,Plano A,80,
+D-00247,2025-07-29,2025-11-30,Lost,Closed Lost,2025-11-15,Outbound,Phone,Education,Sul,A-0079,Orion Solutions 079,Ana (AE),100447.24,0.0,0.0,Serviço Y,124,Other
+D-00248,2025-06-06,2025-07-29,Lost,Closed Lost,2025-07-23,Outbound,LinkedIn,Manufacturing,Sul,A-0108,Nova Solutions 108,Bruno (AE),10238.32,0.0,0.0,Serviço X,53,No Budget
+D-00249,2025-03-16,2025-05-02,Open,Proposal,2026-01-14,Referral,Phone,Services,Sul,A-0034,Nexo Indústria 034,Diego (AE),18014.79,9007.39,0.5,Plano A,47,
+D-00250,2025-05-20,2026-01-25,Open,Qualification,2026-01-17,Inbound,LinkedIn,Services,Nordeste,A-0070,Prime Group 070,Carla (AE),23757.04,7127.11,0.3,Implantação,250,
+D-00251,2024-09-06,2024-10-24,Open,Qualification,2026-02-04,Outbound,WhatsApp,Services,Sudeste,A-0085,Apex Solutions 085,Ana (AE),26452.31,7935.69,0.3,Plano B,48,
+D-00252,2024-10-30,2025-02-10,Open,Prospecting,2026-01-04,Referral,LinkedIn,Services,Sul,A-0034,Nexo Indústria 034,Ana (AE),7215.73,721.57,0.1,Serviço Y,103,
+D-00253,2026-02-11,2026-02-13,Lost,Closed Lost,2026-02-09,Partner,LinkedIn,SaaS,Sul,A-0082,Vitta Digital 082,Ana (AE),9226.07,0.0,0.0,Plano A,5,No Decision
+D-00254,2026-01-07,2026-02-14,Won,Closed Won,2026-02-01,Inbound,Email,Retail,Nordeste,A-0102,Nova Group 102,Carla (AE),8050.92,8050.92,1.0,Plano A,38,
+D-00255,2024-12-26,2026-01-12,Open,Qualification,2026-01-12,Outbound,LinkedIn,Services,Sudeste,A-0085,Apex Solutions 085,Diego (AE),3000.0,900.0,0.3,Plano B,382,
+D-00256,2025-02-07,2025-02-27,Lost,Closed Lost,2025-02-16,Inbound,Email,Education,Nordeste,A-0018,Atlas Digital 018,Carla (AE),21409.67,0.0,0.0,Plano B,20,Other
+D-00257,2024-11-22,2025-03-09,Open,Prospecting,2026-01-20,Outbound,WhatsApp,Services,Norte,A-0028,Apex Indústria 028,Diego (AE),89156.15,8915.61,0.1,Plano B,107,
+D-00258,2024-11-05,2025-02-11,Open,Prospecting,2026-01-15,Outbound,Phone,Healthcare,Centro-Oeste,A-0030,Vitta Labs 030,Ana (AE),15026.25,1502.63,0.1,Serviço Y,98,
+D-00259,2026-01-24,2026-02-12,Won,Closed Won,2026-02-03,Outbound,Phone,Services,Nordeste,A-0097,Vitta Indústria 097,Ana (AE),3500.65,3500.65,1.0,Serviço Y,19,
+D-00260,2026-01-02,2026-01-30,Lost,Closed Lost,2026-01-19,Referral,Phone,Retail,Nordeste,A-0102,Nova Group 102,Diego (AE),13968.86,0.0,0.0,Implantação,28,No Need
+D-00261,2025-10-19,2025-12-22,Lost,Closed Lost,2025-12-17,Outbound,Email,Retail,Norte,A-0033,Blue Comércio 033,Diego (AE),2353.95,0.0,0.0,Plano A,64,Timing
+D-00262,2025-02-01,2025-05-02,Open,Prospecting,2026-01-19,Outbound,LinkedIn,Healthcare,Sudeste,A-0055,Prime Indústria 055,Diego (AE),61572.82,6157.28,0.1,Serviço X,90,
+D-00263,2025-02-26,2026-01-04,Open,Proposal,2026-02-08,Outbound,WhatsApp,Education,Sul,A-0048,Nexo Tech 048,Eva (SDR),53699.35,26849.67,0.5,Serviço Y,312,
+D-00264,2024-12-07,2025-01-17,Won,Closed Won,2025-01-11,Outbound,WhatsApp,Services,Norte,A-0028,Apex Indústria 028,Diego (AE),47793.16,47793.16,1.0,Plano A,41,
+D-00265,2025-12-22,2026-02-16,Open,Proposal,2026-01-11,Outbound,WhatsApp,SaaS,Norte,A-0119,Apex Labs 119,Bruno (AE),53324.7,26662.35,0.5,Serviço Y,56,
+D-00266,2024-10-24,2024-12-10,Lost,Closed Lost,2024-12-03,Inbound,WhatsApp,SaaS,Nordeste,A-0100,Orion Digital 100,Bruno (AE),24757.63,0.0,0.0,Implantação,47,No Decision
+D-00267,2024-10-02,2025-01-01,Open,Proposal,2026-01-27,Outbound,LinkedIn,Manufacturing,Sudeste,A-0047,Meta Serviços 047,Bruno (AE),31394.99,15697.5,0.5,Plano A,91,
+D-00268,2025-08-17,2025-10-11,Lost,Closed Lost,2025-09-29,Event,WhatsApp,Services,Nordeste,A-0105,Meta Serviços 105,Ana (AE),4298.46,0.0,0.0,Serviço X,55,No Decision
+D-00269,2024-12-24,2025-04-19,Open,Proposal,2026-01-20,Partner,Email,Healthcare,Sul,A-0103,Meta Serviços 103,Carla (AE),18419.35,9209.67,0.5,Serviço Y,116,
+D-00270,2025-12-11,2026-02-14,Open,Qualification,2026-02-18,Inbound,WhatsApp,Healthcare,Sul,A-0115,Nexo Comércio 115,Ana (AE),20190.82,6057.25,0.3,Plano B,65,
+D-00271,2025-05-23,2025-07-03,Lost,Closed Lost,2025-06-25,Inbound,WhatsApp,SaaS,Nordeste,A-0032,Sul Solutions 032,Diego (AE),11416.33,0.0,0.0,Plano B,41,Competitor
+D-00272,2026-01-19,2026-02-23,Open,Proposal,2026-01-28,Inbound,Email,Manufacturing,Centro-Oeste,A-0095,Prime Digital 095,Eva (SDR),2174.66,1087.33,0.5,Plano B,35,
+D-00273,2026-01-13,2026-02-15,Lost,Closed Lost,2026-01-26,Referral,WhatsApp,Education,Sul,A-0079,Orion Solutions 079,Eva (SDR),33655.13,0.0,0.0,Serviço X,33,Competitor
+D-00274,2025-01-05,2025-01-24,Lost,Closed Lost,2025-01-22,Inbound,LinkedIn,Services,Nordeste,A-0007,Orion Digital 007,Eva (SDR),8967.83,0.0,0.0,Plano B,19,Competitor
+D-00275,2025-03-30,2025-05-10,Won,Closed Won,2025-04-23,Inbound,LinkedIn,Services,Sul,A-0049,Meta Serviços 049,Carla (AE),9818.6,9818.6,1.0,Plano B,41,
+D-00276,2025-11-04,2025-12-16,Won,Closed Won,2025-12-06,Outbound,LinkedIn,SaaS,Sul,A-0027,Nexo Solutions 027,Bruno (AE),27182.16,27182.16,1.0,Implantação,42,
+D-00277,2025-04-25,2025-07-18,Lost,Closed Lost,2025-06-29,Event,Email,Retail,Sul,A-0072,Blue Group 072,Ana (AE),7452.83,0.0,0.0,Plano A,84,Other
+D-00278,2025-07-16,2025-08-15,Lost,Closed Lost,2025-07-30,Inbound,Email,SaaS,Centro-Oeste,A-0101,Atlas Indústria 101,Diego (AE),8319.61,0.0,0.0,Plano B,30,Other
+D-00279,2025-08-04,2025-11-03,Lost,Closed Lost,2025-10-15,Inbound,Email,Services,Sul,A-0034,Nexo Indústria 034,Eva (SDR),5814.15,0.0,0.0,Plano A,91,No Decision
+D-00280,2025-02-21,2025-04-01,Lost,Closed Lost,2025-03-20,Partner,LinkedIn,SaaS,Nordeste,A-0100,Orion Digital 100,Carla (AE),5793.98,0.0,0.0,Plano A,39,No Need
+D-00281,2025-11-01,2026-02-09,Won,Closed Won,2026-01-26,Inbound,LinkedIn,Manufacturing,Nordeste,A-0081,Apex Serviços 081,Eva (SDR),10661.63,10661.63,1.0,Serviço X,100,
+D-00282,2025-05-31,2025-07-18,Won,Closed Won,2025-07-08,Outbound,Other,Education,Centro-Oeste,A-0114,Blue Comércio 114,Bruno (AE),5247.52,5247.52,1.0,Serviço Y,48,
+D-00283,2024-11-16,2024-12-19,Open,Negotiation,2026-02-09,Referral,LinkedIn,SaaS,Sul,A-0027,Nexo Solutions 027,Ana (AE),25363.75,17754.63,0.7,Plano A,33,
+D-00284,2024-11-21,2025-01-23,Won,Closed Won,2025-01-11,Partner,LinkedIn,Healthcare,Sudeste,A-0084,Meta Indústria 084,Bruno (AE),19875.66,19875.66,1.0,Plano B,63,
+D-00285,2025-12-27,2026-02-08,Lost,Closed Lost,2026-01-20,Partner,Email,Education,Centro-Oeste,A-0060,Orion Indústria 060,Eva (SDR),5195.38,0.0,0.0,Implantação,43,Timing
+D-00286,2025-07-10,2025-09-10,Lost,Closed Lost,2025-08-30,Outbound,LinkedIn,Services,Centro-Oeste,A-0117,Sul Labs 117,Diego (AE),5705.17,0.0,0.0,Serviço X,62,No Need
+D-00287,2025-12-20,2026-03-21,Open,Prospecting,2026-02-03,Outbound,Email,Education,Sudeste,A-0069,Orion Group 069,Ana (AE),23723.47,2372.35,0.1,Plano B,91,
+D-00288,2025-02-10,2025-04-03,Lost,Closed Lost,2025-03-23,Inbound,LinkedIn,SaaS,Norte,A-0092,Atlas Solutions 092,Bruno (AE),29674.47,0.0,0.0,Plano B,52,Other
+D-00289,2025-05-29,2025-06-29,Won,Closed Won,2025-06-18,Outbound,LinkedIn,Education,Centro-Oeste,A-0053,Sul Serviços 053,Diego (AE),7706.54,7706.54,1.0,Plano B,31,
+D-00290,2025-05-29,2025-08-14,Lost,Closed Lost,2025-08-11,Inbound,LinkedIn,Retail,Sudeste,A-0017,Meta Serviços 017,Bruno (AE),21912.1,0.0,0.0,Serviço X,77,Competitor
+D-00291,2025-07-31,2025-10-13,Won,Closed Won,2025-10-04,Referral,Phone,Manufacturing,Centro-Oeste,A-0011,Meta Solutions 011,Ana (AE),3217.63,3217.63,1.0,Plano A,74,
+D-00292,2024-09-30,2025-01-23,Open,Proposal,2026-01-16,Event,LinkedIn,Manufacturing,Norte,A-0026,Vitta Solutions 026,Carla (AE),14444.64,7222.32,0.5,Serviço X,115,
+D-00293,2024-12-30,2025-02-21,Won,Closed Won,2025-02-01,Inbound,WhatsApp,Retail,Norte,A-0033,Blue Comércio 033,Bruno (AE),8231.1,8231.1,1.0,Plano A,53,
+D-00294,2024-12-27,2025-04-23,Open,Negotiation,2026-02-15,Inbound,Email,Healthcare,Sul,A-0051,Nexo Indústria 051,Bruno (AE),7897.3,5528.11,0.7,Plano A,117,
+D-00295,2025-08-26,2025-11-10,Open,Proposal,2026-02-17,Outbound,LinkedIn,Healthcare,Centro-Oeste,A-0083,Blue Group 083,Ana (AE),3468.41,1734.21,0.5,Implantação,76,
+D-00296,2025-09-17,2025-11-20,Open,Prospecting,2026-01-20,Partner,WhatsApp,SaaS,Norte,A-0046,Meta Digital 046,Ana (AE),71453.53,7145.35,0.1,Implantação,64,
+D-00297,2025-06-04,2025-07-15,Lost,Closed Lost,2025-07-13,Inbound,Email,Manufacturing,Sul,A-0112,Nexo Comércio 112,Ana (AE),9119.19,0.0,0.0,Serviço X,41,Other
+D-00298,2025-09-03,2025-10-27,Lost,Closed Lost,2025-10-15,Event,Phone,SaaS,Nordeste,A-0100,Orion Digital 100,Ana (AE),10512.34,0.0,0.0,Plano B,54,No Decision
+D-00299,2025-10-20,2026-01-07,Open,Qualification,2026-01-25,Inbound,Phone,Healthcare,Centro-Oeste,A-0083,Blue Group 083,Carla (AE),6709.85,2012.96,0.3,Plano B,79,
+D-00300,2026-01-10,2026-02-09,Open,Qualification,2026-02-15,Inbound,WhatsApp,Manufacturing,Sul,A-0068,Blue Serviços 068,Ana (AE),71797.71,21539.31,0.3,Plano A,30,
+D-00301,2025-08-31,2025-10-12,Lost,Closed Lost,2025-09-24,Inbound,Email,Retail,Sul,A-0072,Blue Group 072,Diego (AE),9691.32,0.0,0.0,Implantação,42,No Need
+D-00302,2025-05-08,2025-06-28,Lost,Closed Lost,2025-06-21,Outbound,Email,Education,Nordeste,A-0073,Apex Solutions 073,Diego (AE),56958.32,0.0,0.0,Implantação,51,No Budget
+D-00303,2025-10-12,2025-12-23,Open,Proposal,2026-01-22,Outbound,LinkedIn,SaaS,Sul,A-0065,Orion Serviços 065,Eva (SDR),6741.46,3370.73,0.5,Serviço X,72,
+D-00304,2025-07-24,2026-01-30,Open,Qualification,2026-01-11,Outbound,WhatsApp,Retail,Sul,A-0078,Atlas Indústria 078,Bruno (AE),4283.71,1285.11,0.3,Serviço X,190,
+D-00305,2024-09-12,2024-10-04,Lost,Closed Lost,2024-09-18,Event,Phone,Healthcare,Sudeste,A-0067,Orion Group 067,Diego (AE),10535.95,0.0,0.0,Implantação,22,No Budget
+D-00306,2025-08-26,2025-09-24,Open,Prospecting,2026-01-19,Inbound,Phone,Manufacturing,Sudeste,A-0020,Nova Comércio 020,Carla (AE),4280.19,428.02,0.1,Plano A,29,
+D-00307,2025-02-20,2025-03-17,Won,Closed Won,2025-03-05,Referral,WhatsApp,Education,Norte,A-0063,Apex Serviços 063,Carla (AE),69438.29,69438.29,1.0,Serviço X,25,
+D-00308,2025-08-18,2025-09-13,Open,Proposal,2026-02-16,Referral,Email,SaaS,Sudeste,A-0113,Apex Group 113,Eva (SDR),16326.38,8163.19,0.5,Implantação,26,
+D-00309,2025-07-19,2026-01-30,Open,Qualification,2026-01-24,Inbound,WhatsApp,Services,Nordeste,A-0070,Prime Group 070,Diego (AE),9543.54,2863.06,0.3,Serviço Y,195,
+D-00310,2025-01-25,2025-03-01,Won,Closed Won,2025-02-12,Outbound,Email,Retail,Sudeste,A-0017,Meta Serviços 017,Diego (AE),5839.88,5839.88,1.0,Serviço Y,35,
+D-00311,2025-03-17,2025-06-16,Won,Closed Won,2025-06-12,Event,LinkedIn,Education,Norte,A-0063,Apex Serviços 063,Carla (AE),13146.72,13146.72,1.0,Plano B,91,
+D-00312,2024-12-20,2025-03-27,Lost,Closed Lost,2025-03-21,Inbound,WhatsApp,Manufacturing,Sul,A-0086,Blue Indústria 086,Ana (AE),15107.58,0.0,0.0,Serviço X,97,Timing
+D-00313,2025-11-21,2026-01-14,Lost,Closed Lost,2026-01-12,Inbound,WhatsApp,Services,Nordeste,A-0006,Blue Solutions 006,Diego (AE),16521.6,0.0,0.0,Plano A,54,No Need
+D-00314,2025-08-13,2025-10-31,Won,Closed Won,2025-10-25,Inbound,WhatsApp,SaaS,Sudeste,A-0089,Nova Comércio 089,Carla (AE),31619.66,31619.66,1.0,Plano B,79,
+D-00315,2024-09-14,2024-11-20,Lost,Closed Lost,2024-11-10,Inbound,Email,Services,Sul,A-0049,Meta Serviços 049,Ana (AE),11430.8,0.0,0.0,Implantação,67,No Budget
+D-00316,2025-08-30,2025-12-04,Open,Qualification,2026-02-07,Outbound,Other,Education,Centro-Oeste,A-0111,Blue Labs 111,Eva (SDR),4368.97,1310.69,0.3,Implantação,96,
+D-00317,2025-03-18,2025-05-13,Won,Closed Won,2025-05-04,Inbound,LinkedIn,SaaS,Sul,A-0065,Orion Serviços 065,Eva (SDR),11087.04,11087.04,1.0,Plano B,56,
+D-00318,2026-01-22,2026-03-26,Open,Prospecting,2026-01-28,Referral,Phone,Healthcare,Norte,A-0036,Meta Indústria 036,Eva (SDR),23126.09,2312.61,0.1,Plano A,63,
+D-00319,2025-01-14,2025-03-15,Lost,Closed Lost,2025-02-27,Referral,WhatsApp,Healthcare,Sudeste,A-0012,Apex Comércio 012,Diego (AE),15120.75,0.0,0.0,Serviço Y,60,No Decision
+D-00320,2025-01-08,2026-01-12,Open,Negotiation,2026-02-08,Inbound,Email,SaaS,Sul,A-0027,Nexo Solutions 027,Diego (AE),78929.16,55250.42,0.7,Implantação,369,
+D-00321,2025-07-18,2025-09-28,Open,Qualification,2026-01-09,Inbound,Phone,Education,Sul,A-0009,Orion Indústria 009,Ana (AE),75622.88,22686.86,0.3,Plano A,72,
+D-00322,2025-06-03,2025-07-22,Open,Qualification,2026-01-27,Partner,WhatsApp,Manufacturing,Sudeste,A-0020,Nova Comércio 020,Ana (AE),12370.35,3711.11,0.3,Serviço X,49,
+D-00323,2024-11-16,2026-01-22,Open,Prospecting,2026-02-18,Outbound,WhatsApp,SaaS,Sudeste,A-0089,Nova Comércio 089,Diego (AE),27280.19,2728.02,0.1,Plano B,432,
+D-00324,2025-05-30,2025-08-16,Open,Qualification,2026-01-22,Inbound,Email,Education,Centro-Oeste,A-0053,Sul Serviços 053,Ana (AE),3084.31,925.29,0.3,Serviço Y,78,
+D-00325,2025-10-15,2025-11-17,Open,Prospecting,2026-02-16,Partner,WhatsApp,SaaS,Nordeste,A-0100,Orion Digital 100,Carla (AE),6896.35,689.64,0.1,Implantação,33,
+D-00326,2025-05-05,2025-07-21,Lost,Closed Lost,2025-07-14,Outbound,WhatsApp,Healthcare,Sudeste,A-0067,Orion Group 067,Ana (AE),120000.0,0.0,0.0,Plano A,77,Competitor
+D-00327,2025-11-02,2026-02-02,Won,Closed Won,2026-01-14,Inbound,Phone,SaaS,Nordeste,A-0038,Sul Solutions 038,Carla (AE),9813.55,9813.55,1.0,Serviço Y,92,
+D-00328,2025-01-12,2025-04-25,Open,Qualification,2026-02-08,Outbound,WhatsApp,Healthcare,Sul,A-0051,Nexo Indústria 051,Ana (AE),7035.91,2110.77,0.3,Plano B,103,
+D-00329,2024-12-31,2025-01-25,Open,Qualification,2026-01-28,Outbound,LinkedIn,Healthcare,Sudeste,A-0012,Apex Comércio 012,Bruno (AE),3664.0,1099.2,0.3,Implantação,25,
+D-00330,2025-01-27,2025-02-14,Lost,Closed Lost,2025-02-04,Outbound,LinkedIn,SaaS,Norte,A-0021,Sul Comércio 021,Diego (AE),32081.48,0.0,0.0,Serviço Y,18,No Need
+D-00331,2024-09-08,2024-10-08,Open,Qualification,2026-02-18,Outbound,LinkedIn,Retail,Norte,A-0059,Prime Serviços 059,Diego (AE),8451.84,2535.55,0.3,Plano B,30,
+D-00332,2025-05-04,2025-05-26,Won,Closed Won,2025-05-06,Referral,Email,SaaS,Sudeste,A-0113,Apex Group 113,Carla (AE),9870.81,9870.81,1.0,Plano B,22,
+D-00333,2025-06-28,2025-10-21,Open,Negotiation,2026-02-16,Outbound,WhatsApp,Services,Sudeste,A-0043,Atlas Tech 043,Diego (AE),15805.35,11063.74,0.7,Implantação,115,
+D-00334,2024-11-30,2025-01-22,Won,Closed Won,2025-01-10,Inbound,LinkedIn,Healthcare,Nordeste,A-0099,Nexo Tech 099,Bruno (AE),5802.91,5802.91,1.0,Implantação,53,
+D-00335,2026-02-17,2026-06-17,Open,Proposal,2026-02-17,Inbound,WhatsApp,Education,Centro-Oeste,A-0053,Sul Serviços 053,Carla (AE),9368.66,4684.33,0.5,Implantação,120,
+D-00336,2025-11-07,2026-01-29,Open,Proposal,2026-01-10,Outbound,Phone,Retail,Sul,A-0078,Atlas Indústria 078,Carla (AE),14942.54,7471.27,0.5,Implantação,83,
+D-00337,2025-04-22,2025-06-23,Open,Qualification,2026-01-09,Outbound,WhatsApp,Manufacturing,Nordeste,A-0091,Prime Labs 091,Ana (AE),30130.63,9039.19,0.3,Plano B,62,
+D-00338,2025-04-01,2025-06-08,Lost,Closed Lost,2025-05-19,Inbound,LinkedIn,Healthcare,Sul,A-0002,Atlas Comércio 002,Bruno (AE),32266.71,0.0,0.0,Implantação,68,Competitor
+D-00339,2024-09-25,2024-12-22,Open,Proposal,2026-01-20,Partner,Phone,Services,Sul,A-0107,Sul Digital 107,Bruno (AE),4750.43,2375.22,0.5,Plano A,88,
+D-00340,2025-10-24,2026-02-13,Won,Closed Won,2026-02-09,Partner,LinkedIn,SaaS,Norte,A-0119,Apex Labs 119,Bruno (AE),300000.0,300000.0,1.0,Implantação,112,
+D-00341,2025-01-26,2025-03-25,Lost,Closed Lost,2025-03-22,Outbound,Email,Healthcare,Norte,A-0036,Meta Indústria 036,Bruno (AE),15787.93,0.0,0.0,Implantação,58,Competitor
+D-00342,2025-06-01,2025-08-16,Open,Negotiation,2026-01-19,Outbound,Email,Education,Centro-Oeste,A-0053,Sul Serviços 053,Bruno (AE),3441.22,2408.85,0.7,Serviço X,76,
+D-00343,2026-01-21,2026-04-09,Open,Proposal,2026-01-22,Inbound,Phone,Manufacturing,Sudeste,A-0020,Nova Comércio 020,Diego (AE),15271.96,7635.98,0.5,Implantação,78,
+D-00344,2026-02-12,2026-06-09,Open,Prospecting,2026-02-17,Outbound,Email,SaaS,Sul,A-0015,Nova Solutions 015,Ana (AE),14786.62,1478.66,0.1,Implantação,117,
+D-00345,2025-07-21,2025-10-12,Lost,Closed Lost,2025-10-07,Outbound,Email,Manufacturing,Norte,A-0026,Vitta Solutions 026,Bruno (AE),10417.56,0.0,0.0,Plano B,83,No Decision
+D-00346,2025-03-26,2025-06-08,Lost,Closed Lost,2025-06-05,Partner,Email,Services,Nordeste,A-0070,Prime Group 070,Ana (AE),6529.42,0.0,0.0,Plano B,74,No Decision
+D-00347,2025-01-07,2025-04-25,Open,Proposal,2026-01-10,Inbound,LinkedIn,Manufacturing,Norte,A-0004,Atlas Group 004,Ana (AE),7627.57,3813.79,0.5,Plano B,108,
+D-00348,2025-08-26,2025-12-13,Open,Proposal,2026-01-20,Referral,Email,Manufacturing,Norte,A-0040,Prime Indústria 040,Diego (AE),13754.05,6877.03,0.5,Serviço Y,109,
+D-00349,2025-07-10,2025-09-08,Won,Closed Won,2025-08-27,Event,Email,SaaS,Sudeste,A-0088,Sul Labs 088,Carla (AE),17863.82,17863.82,1.0,Implantação,60,
+D-00350,2025-12-04,2026-03-25,Open,Prospecting,2026-01-29,Outbound,Email,Education,Norte,A-0063,Apex Serviços 063,Bruno (AE),5688.41,568.84,0.1,Serviço X,111,
+D-00351,2024-11-07,2025-02-23,Open,Qualification,2026-01-22,Inbound,Email,Retail,Nordeste,A-0102,Nova Group 102,Carla (AE),5469.65,1640.89,0.3,Plano B,108,
+D-00352,2025-08-12,2025-09-11,Won,Closed Won,2025-08-26,Partner,WhatsApp,Services,Nordeste,A-0070,Prime Group 070,Diego (AE),11268.28,11268.28,1.0,Serviço Y,30,
+D-00353,2025-02-23,2025-03-15,Open,Proposal,2026-01-07,Partner,Email,Manufacturing,Norte,A-0040,Prime Indústria 040,Carla (AE),31578.79,15789.4,0.5,Plano B,20,
+D-00354,2025-01-26,2025-03-29,Lost,Closed Lost,2025-03-25,Inbound,WhatsApp,Education,Sudeste,A-0058,Atlas Digital 058,Carla (AE),9039.43,0.0,0.0,Serviço X,62,Timing
+D-00355,2024-09-04,2026-01-30,Open,Qualification,2026-02-17,Inbound,LinkedIn,Education,Sul,A-0079,Orion Solutions 079,Ana (AE),158726.96,47618.09,0.3,Implantação,513,
+D-00356,2025-04-24,2025-08-03,Won,Closed Won,2025-07-20,Outbound,LinkedIn,Retail,Sudeste,A-0056,Prime Indústria 056,Bruno (AE),75347.77,75347.77,1.0,Implantação,101,
+D-00357,2025-08-30,2025-09-27,Lost,Closed Lost,2025-09-21,Inbound,Email,Manufacturing,Sul,A-0108,Nova Solutions 108,Eva (SDR),15497.99,0.0,0.0,Plano A,28,No Need
+D-00358,2025-10-26,2025-12-11,Won,Closed Won,2025-12-04,Outbound,Email,Education,Centro-Oeste,A-0111,Blue Labs 111,Carla (AE),6618.68,6618.68,1.0,Implantação,46,
+D-00359,2025-11-04,2025-12-08,Open,Proposal,2026-01-05,Event,WhatsApp,Retail,Sul,A-0078,Atlas Indústria 078,Bruno (AE),22272.15,11136.08,0.5,Plano A,34,
+D-00360,2024-11-16,2025-02-02,Won,Closed Won,2025-01-29,Partner,Email,Manufacturing,Norte,A-0019,Sul Solutions 019,Diego (AE),33640.66,33640.66,1.0,Implantação,78,
+D-00361,2025-07-12,2025-09-07,Open,Qualification,2026-02-16,Outbound,LinkedIn,Education,Sul,A-0079,Orion Solutions 079,Diego (AE),15717.75,4715.32,0.3,Serviço Y,57,
+D-00362,2025-07-04,2026-02-13,Open,Qualification,2026-02-01,Outbound,WhatsApp,Healthcare,Sudeste,A-0094,Blue Digital 094,Carla (AE),13502.51,4050.75,0.3,Serviço X,224,
+D-00363,2025-05-12,2025-06-23,Open,Qualification,2026-01-05,Partner,WhatsApp,Retail,Sudeste,A-0017,Meta Serviços 017,Bruno (AE),10297.77,3089.33,0.3,Implantação,42,
+D-00364,2025-04-25,2025-07-06,Open,Qualification,2026-02-03,Event,Other,Education,Norte,A-0063,Apex Serviços 063,Ana (AE),7548.89,2264.67,0.3,Implantação,72,
+D-00365,2025-11-20,2026-02-14,Lost,Closed Lost,2026-02-05,Inbound,WhatsApp,Manufacturing,Nordeste,A-0093,Atlas Labs 093,Diego (AE),10479.48,0.0,0.0,Plano A,86,Timing
+D-00366,2025-09-19,2025-10-19,Lost,Closed Lost,2025-09-30,Referral,Email,SaaS,Sudeste,A-0088,Sul Labs 088,Ana (AE),13599.05,0.0,0.0,Serviço Y,30,No Budget
+D-00367,2025-08-24,2025-10-11,Lost,Closed Lost,2025-09-21,Inbound,Email,Manufacturing,Sul,A-0109,Nova Tech 109,Diego (AE),6168.7,0.0,0.0,Plano A,48,Other
+D-00368,2025-03-14,2025-05-28,Won,Closed Won,2025-05-15,Outbound,WhatsApp,Healthcare,Sudeste,A-0067,Orion Group 067,Ana (AE),9160.73,9160.73,1.0,Plano A,75,
+D-00369,2025-04-08,2026-01-10,Open,Proposal,2026-02-10,Inbound,Phone,Manufacturing,Nordeste,A-0093,Atlas Labs 093,Ana (AE),6156.85,3078.43,0.5,Plano B,277,
+D-00370,2025-09-15,2025-11-30,Lost,Closed Lost,2025-11-20,Inbound,Email,Services,Sudeste,A-0085,Apex Solutions 085,Diego (AE),47208.7,0.0,0.0,Plano B,76,Other
+D-00371,2025-11-07,2025-12-19,Open,Proposal,2026-01-18,Partner,LinkedIn,SaaS,Sudeste,A-0089,Nova Comércio 089,Ana (AE),13725.31,6862.65,0.5,Serviço X,42,
+D-00372,2025-03-20,2026-02-13,Open,Proposal,2026-01-13,Outbound,LinkedIn,Education,Sul,A-0079,Orion Solutions 079,Ana (AE),28192.87,14096.43,0.5,Implantação,330,
+D-00373,2025-05-10,2025-05-28,Lost,Closed Lost,2025-05-10,Outbound,Phone,SaaS,Nordeste,A-0100,Orion Digital 100,Ana (AE),4536.16,0.0,0.0,Serviço Y,18,No Decision
+D-00374,2026-01-11,2026-02-10,Lost,Closed Lost,2026-01-28,Partner,LinkedIn,Retail,Sudeste,A-0062,Nova Tech 062,Diego (AE),10620.93,0.0,0.0,Plano A,30,No Budget
+D-00375,2025-08-03,2025-09-15,Lost,Closed Lost,2025-09-08,Outbound,LinkedIn,SaaS,Sudeste,A-0088,Sul Labs 088,Eva (SDR),6615.77,0.0,0.0,Serviço X,43,Other
+D-00376,2024-10-06,2024-10-28,Lost,Closed Lost,2024-10-20,Inbound,WhatsApp,Education,Sudeste,A-0050,Prime Comércio 050,Bruno (AE),24175.4,0.0,0.0,Serviço Y,22,No Need
+D-00377,2024-09-21,2024-11-23,Open,Qualification,2026-02-16,Outbound,Other,Manufacturing,Nordeste,A-0093,Atlas Labs 093,Carla (AE),4461.95,1338.58,0.3,Serviço Y,63,
+D-00378,2025-10-16,2025-11-21,Lost,Closed Lost,2025-11-04,Event,Phone,Manufacturing,Nordeste,A-0016,Nexo Solutions 016,Carla (AE),3126.19,0.0,0.0,Implantação,36,No Budget
+D-00379,2024-09-15,2026-01-11,Open,Prospecting,2026-02-14,Outbound,Email,Services,Nordeste,A-0061,Apex Tech 061,Bruno (AE),30610.31,3061.03,0.1,Plano A,483,
+D-00380,2024-12-13,2025-02-10,Lost,Closed Lost,2025-02-02,Referral,LinkedIn,SaaS,Sul,A-0015,Nova Solutions 015,Bruno (AE),8356.04,0.0,0.0,Serviço Y,59,No Need
+D-00381,2024-10-12,2025-01-20,Open,Prospecting,2026-02-08,Outbound,Email,Healthcare,Sul,A-0076,Orion Group 076,Ana (AE),2773.6,277.36,0.1,Plano B,100,
+D-00382,2024-09-12,2024-10-16,Lost,Closed Lost,2024-10-08,Inbound,WhatsApp,SaaS,Sudeste,A-0113,Apex Group 113,Ana (AE),8367.17,0.0,0.0,Serviço X,34,Other
+D-00383,2025-01-20,2025-03-17,Lost,Closed Lost,2025-03-04,Inbound,WhatsApp,SaaS,Sul,A-0082,Vitta Digital 082,Bruno (AE),10529.0,0.0,0.0,Implantação,56,Other
+D-00384,2025-10-29,2025-12-21,Lost,Closed Lost,2025-12-18,Event,WhatsApp,Manufacturing,Sudeste,A-0001,Nova Digital 001,Eva (SDR),19732.32,0.0,0.0,Implantação,53,No Need
+D-00385,2025-03-13,2025-05-02,Won,Closed Won,2025-04-20,Outbound,Email,SaaS,Sul,A-0015,Nova Solutions 015,Eva (SDR),26356.49,26356.49,1.0,Plano A,50,
+D-00386,2025-12-04,2026-01-18,Open,Qualification,2026-01-29,Outbound,Email,Services,Nordeste,A-0006,Blue Solutions 006,Ana (AE),8965.22,2689.57,0.3,Plano B,45,
+D-00387,2025-04-19,2025-07-01,Won,Closed Won,2025-06-25,Outbound,Email,SaaS,Nordeste,A-0100,Orion Digital 100,Bruno (AE),4635.7,4635.7,1.0,Plano B,73,
+D-00388,2025-04-05,2025-07-22,Open,Prospecting,2026-02-01,Outbound,Email,SaaS,Norte,A-0119,Apex Labs 119,Bruno (AE),55269.9,5526.99,0.1,Serviço X,108,
+D-00389,2025-01-13,2025-04-14,Lost,Closed Lost,2025-03-26,Inbound,Phone,SaaS,Sul,A-0015,Nova Solutions 015,Ana (AE),18541.79,0.0,0.0,Implantação,91,No Need
+D-00390,2025-04-19,2025-06-07,Lost,Closed Lost,2025-05-26,Inbound,LinkedIn,Healthcare,Sudeste,A-0012,Apex Comércio 012,Eva (SDR),6809.57,0.0,0.0,Serviço Y,49,No Need
+D-00391,2025-11-14,2025-12-14,Lost,Closed Lost,2025-11-28,Event,WhatsApp,Services,Nordeste,A-0075,Apex Tech 075,Ana (AE),19326.49,0.0,0.0,Implantação,30,Other
+D-00392,2026-01-16,2026-02-09,Won,Closed Won,2026-01-20,Outbound,Email,Manufacturing,Sudeste,A-0031,Nexo Group 031,Ana (AE),12565.78,12565.78,1.0,Plano A,24,
+D-00393,2024-09-20,2024-11-28,Open,Proposal,2026-01-28,Inbound,Phone,Retail,Norte,A-0059,Prime Serviços 059,Diego (AE),8081.23,4040.61,0.5,Serviço Y,69,
+D-00394,2024-09-29,2024-12-23,Open,Negotiation,2026-01-06,Outbound,WhatsApp,SaaS,Nordeste,A-0038,Sul Solutions 038,Eva (SDR),7524.83,5267.38,0.7,Plano A,85,
+D-00395,2025-09-03,2025-10-10,Open,Proposal,2026-02-03,Inbound,LinkedIn,Education,Centro-Oeste,A-0114,Blue Comércio 114,Carla (AE),3551.37,1775.69,0.5,Implantação,37,
+D-00396,2024-12-21,2025-02-12,Lost,Closed Lost,2025-02-09,Event,Email,Healthcare,Sudeste,A-0084,Meta Indústria 084,Carla (AE),5560.29,0.0,0.0,Plano B,53,Timing
+D-00397,2024-10-30,2025-02-13,Open,Qualification,2026-02-14,Inbound,WhatsApp,Education,Sul,A-0048,Nexo Tech 048,Carla (AE),28262.68,8478.8,0.3,Implantação,106,
+D-00398,2025-03-07,2025-06-01,Open,Negotiation,2026-02-17,Inbound,Email,Healthcare,Sul,A-0115,Nexo Comércio 115,Eva (SDR),15166.54,10616.58,0.7,Plano A,86,
+D-00399,2025-06-23,2025-09-15,Lost,Closed Lost,2025-09-03,Inbound,LinkedIn,SaaS,Norte,A-0054,Prime Tech 054,Ana (AE),29071.75,0.0,0.0,Plano A,84,No Need
+D-00400,2025-10-22,2025-12-18,Won,Closed Won,2025-12-11,Outbound,WhatsApp,Services,Nordeste,A-0075,Apex Tech 075,Bruno (AE),4986.31,4986.31,1.0,Implantação,57,
+D-00401,2025-05-20,2025-08-16,Open,Prospecting,2026-02-07,Inbound,LinkedIn,Healthcare,Centro-Oeste,A-0030,Vitta Labs 030,Diego (AE),9005.85,900.58,0.1,Serviço Y,88,
+D-00402,2025-01-31,2025-04-18,Open,Prospecting,2026-02-08,Inbound,WhatsApp,SaaS,Norte,A-0021,Sul Comércio 021,Bruno (AE),13739.49,1373.95,0.1,Plano A,77,
+D-00403,2025-07-01,2025-08-30,Lost,Closed Lost,2025-08-19,Inbound,LinkedIn,Manufacturing,Nordeste,A-0016,Nexo Solutions 016,Carla (AE),19845.77,0.0,0.0,Serviço X,60,No Decision
+D-00404,2025-12-25,2026-01-09,Open,Qualification,2026-02-04,Outbound,WhatsApp,Healthcare,Sul,A-0115,Nexo Comércio 115,Eva (SDR),6334.16,1900.25,0.3,Serviço Y,15,
+D-00405,2025-11-26,2026-02-12,Lost,Closed Lost,2026-02-04,Event,Email,SaaS,Norte,A-0046,Meta Digital 046,Bruno (AE),75976.61,0.0,0.0,Plano A,78,No Budget
+D-00406,2026-01-11,2026-02-14,Won,Closed Won,2026-01-29,Partner,LinkedIn,Retail,Sudeste,A-0041,Sul Serviços 041,Ana (AE),10954.17,10954.17,1.0,Serviço Y,34,
+D-00407,2024-11-24,2026-02-04,Open,Proposal,2026-01-30,Referral,Email,Services,Norte,A-0028,Apex Indústria 028,Eva (SDR),84745.02,42372.51,0.5,Serviço Y,437,
+D-00408,2025-12-26,2026-02-11,Won,Closed Won,2026-01-22,Outbound,LinkedIn,Manufacturing,Sul,A-0112,Nexo Comércio 112,Eva (SDR),8897.62,8897.62,1.0,Plano A,47,
+D-00409,2025-01-14,2025-02-01,Lost,Closed Lost,2025-01-26,Inbound,Phone,Manufacturing,Norte,A-0026,Vitta Solutions 026,Carla (AE),9364.22,0.0,0.0,Implantação,18,No Budget
+D-00410,2025-05-22,2025-08-24,Lost,Closed Lost,2025-08-11,Outbound,LinkedIn,Services,Centro-Oeste,A-0039,Nova Comércio 039,Eva (SDR),16253.65,0.0,0.0,Plano B,94,No Budget
+D-00411,2026-01-01,2026-02-18,Lost,Closed Lost,2026-02-12,Event,Phone,Education,Nordeste,A-0073,Apex Solutions 073,Diego (AE),39395.35,0.0,0.0,Serviço X,48,No Need
+D-00412,2025-07-20,2025-10-11,Lost,Closed Lost,2025-10-03,Inbound,LinkedIn,Education,Centro-Oeste,A-0060,Orion Indústria 060,Ana (AE),14376.31,0.0,0.0,Serviço X,83,No Budget
+D-00413,2025-03-02,2025-04-06,Lost,Closed Lost,2025-03-19,Partner,LinkedIn,Services,Nordeste,A-0098,Meta Group 098,Diego (AE),12827.5,0.0,0.0,Serviço X,35,No Budget
+D-00414,2025-06-11,2025-10-07,Lost,Closed Lost,2025-09-19,Inbound,Email,Education,Sul,A-0048,Nexo Tech 048,Eva (SDR),93573.9,0.0,0.0,Implantação,118,No Decision
+D-00415,2024-12-21,2025-03-27,Open,Qualification,2026-01-28,Event,LinkedIn,SaaS,Norte,A-0054,Prime Tech 054,Diego (AE),8074.39,2422.32,0.3,Serviço X,96,
+D-00416,2025-02-19,2025-06-17,Lost,Closed Lost,2025-06-12,Inbound,WhatsApp,Manufacturing,Nordeste,A-0091,Prime Labs 091,Ana (AE),13826.15,0.0,0.0,Plano B,118,Timing
+D-00417,2024-11-14,2026-01-06,Open,Negotiation,2026-02-18,Inbound,WhatsApp,Healthcare,Sul,A-0003,Blue Indústria 003,Ana (AE),33096.34,23167.44,0.7,Implantação,418,
+D-00418,2024-12-03,2025-02-03,Lost,Closed Lost,2025-01-21,Inbound,WhatsApp,SaaS,Centro-Oeste,A-0101,Atlas Indústria 101,Carla (AE),2733.4,0.0,0.0,Plano A,62,No Decision
+D-00419,2025-02-07,2026-01-14,Open,Proposal,2026-02-18,Outbound,Email,SaaS,Sul,A-0110,Blue Serviços 110,Bruno (AE),18054.21,9027.1,0.5,Implantação,341,
+D-00420,2024-12-06,2025-02-12,Open,Proposal,2026-01-17,Outbound,WhatsApp,SaaS,Norte,A-0119,Apex Labs 119,Diego (AE),18468.82,9234.41,0.5,Serviço Y,68,
+D-00421,2025-04-17,2025-06-02,Lost,Closed Lost,2025-05-14,Inbound,Email,Education,Centro-Oeste,A-0053,Sul Serviços 053,Ana (AE),14808.62,0.0,0.0,Serviço X,46,Timing
+D-00422,2025-10-18,2025-12-25,Lost,Closed Lost,2025-12-09,Referral,Phone,SaaS,Nordeste,A-0038,Sul Solutions 038,Diego (AE),23526.76,0.0,0.0,Serviço X,68,No Budget
+D-00423,2026-02-13,2026-02-12,Won,Closed Won,2026-02-10,Partner,Other,Services,Sudeste,A-0085,Apex Solutions 085,Bruno (AE),23294.8,23294.8,1.0,Plano B,5,
+D-00424,2025-04-22,2025-07-14,Lost,Closed Lost,2025-07-04,Partner,WhatsApp,Manufacturing,Sul,A-0108,Nova Solutions 108,Diego (AE),14834.54,0.0,0.0,Serviço Y,83,Timing
+D-00425,2025-01-24,2025-02-14,Won,Closed Won,2025-02-07,Inbound,Phone,Healthcare,Nordeste,A-0099,Nexo Tech 099,Carla (AE),7988.52,7988.52,1.0,Plano A,21,
+D-00426,2025-09-22,2026-01-04,Open,Prospecting,2026-01-17,Inbound,Email,Retail,Sul,A-0078,Atlas Indústria 078,Carla (AE),10957.91,1095.79,0.1,Implantação,104,
+D-00427,2025-05-21,2025-07-28,Open,Qualification,2026-02-16,Event,Email,Services,Nordeste,A-0070,Prime Group 070,Carla (AE),2229.53,668.86,0.3,Serviço Y,68,
+D-00428,2024-09-29,2024-12-18,Lost,Closed Lost,2024-11-29,Partner,LinkedIn,Education,Sul,A-0023,Prime Digital 023,Bruno (AE),30341.04,0.0,0.0,Plano B,80,No Decision
+D-00429,2025-12-21,2026-01-11,Open,Negotiation,2026-02-16,Inbound,WhatsApp,Services,Nordeste,A-0061,Apex Tech 061,Ana (AE),9287.58,6501.3,0.7,Serviço Y,21,
+D-00430,2025-01-05,2025-03-08,Won,Closed Won,2025-03-05,Partner,WhatsApp,Manufacturing,Sul,A-0108,Nova Solutions 108,Carla (AE),7299.79,7299.79,1.0,Serviço Y,62,
+D-00431,2025-05-04,2025-07-19,Won,Closed Won,2025-07-04,Partner,Phone,SaaS,Nordeste,A-0032,Sul Solutions 032,Ana (AE),10957.35,10957.35,1.0,Plano A,76,
+D-00432,2026-02-05,2026-02-13,Lost,Closed Lost,2026-02-08,Inbound,LinkedIn,Services,Centro-Oeste,A-0116,Sul Solutions 116,Carla (AE),7717.06,0.0,0.0,Implantação,8,No Budget
+D-00433,2026-01-23,2026-02-01,Open,Prospecting,2026-02-17,Outbound,LinkedIn,Services,Nordeste,A-0104,Nexo Tech 104,Carla (AE),83590.92,8359.09,0.1,Serviço Y,9,
+D-00434,2025-06-27,2025-09-22,Open,Qualification,2026-02-05,Inbound,Phone,Services,Centro-Oeste,A-0074,Atlas Solutions 074,Diego (AE),15295.1,4588.53,0.3,Plano A,87,
+D-00435,2025-08-17,2025-09-29,Open,Proposal,2026-01-09,Inbound,LinkedIn,Retail,Nordeste,A-0102,Nova Group 102,Diego (AE),8567.91,4283.96,0.5,Serviço X,43,
+D-00436,2026-02-06,2026-06-04,Open,Proposal,2026-02-09,Referral,Phone,Education,Centro-Oeste,A-0111,Blue Labs 111,Diego (AE),4008.48,2004.24,0.5,Serviço X,118,
+D-00437,2024-10-27,2024-12-10,Lost,Closed Lost,2024-11-25,Partner,WhatsApp,Healthcare,Sudeste,A-0067,Orion Group 067,Bruno (AE),8791.74,0.0,0.0,Serviço Y,44,Other
+D-00438,2025-05-27,2025-08-15,Lost,Closed Lost,2025-07-27,Inbound,Email,Retail,Nordeste,A-0106,Meta Solutions 106,Diego (AE),6267.71,0.0,0.0,Plano B,80,Timing
+D-00439,2025-11-16,2026-03-08,Open,Negotiation,2026-02-17,Inbound,Email,Healthcare,Sudeste,A-0055,Prime Indústria 055,Ana (AE),56952.81,39866.97,0.7,Serviço X,112,
+D-00440,2024-10-22,2025-02-11,Open,Qualification,2026-02-03,Inbound,Other,Education,Centro-Oeste,A-0111,Blue Labs 111,Bruno (AE),17014.53,5104.36,0.3,Serviço X,112,
+D-00441,2024-12-19,2025-03-21,Lost,Closed Lost,2025-03-07,Event,Email,Services,Centro-Oeste,A-0074,Atlas Solutions 074,Eva (SDR),21233.24,0.0,0.0,Plano A,92,Competitor
+D-00442,2025-04-25,2025-08-12,Open,Qualification,2026-01-29,Event,LinkedIn,Retail,Sudeste,A-0120,Blue Comércio 120,Ana (AE),7628.0,2288.4,0.3,Serviço X,109,
+D-00443,2025-11-03,2025-12-21,Lost,Closed Lost,2025-12-11,Inbound,Other,Services,Nordeste,A-0061,Apex Tech 061,Diego (AE),4765.65,0.0,0.0,Implantação,48,No Budget
+D-00444,2025-09-24,2025-12-03,Open,Negotiation,2026-02-02,Partner,LinkedIn,Manufacturing,Norte,A-0040,Prime Indústria 040,Eva (SDR),32704.97,22893.48,0.7,Plano B,70,
+D-00445,2025-07-01,2025-10-28,Open,Prospecting,2026-01-19,Outbound,LinkedIn,Healthcare,Sudeste,A-0012,Apex Comércio 012,Ana (AE),1506.28,150.63,0.1,Serviço Y,119,
+D-00446,2025-10-23,2026-02-13,Lost,Closed Lost,2026-01-28,Referral,Phone,SaaS,Norte,A-0119,Apex Labs 119,Eva (SDR),290180.94,0.0,0.0,Serviço X,113,No Decision
+D-00447,2024-09-24,2025-01-13,Open,Prospecting,2026-01-08,Outbound,WhatsApp,Services,Nordeste,A-0098,Meta Group 098,Ana (AE),17957.11,1795.71,0.1,Serviço X,111,
+D-00448,2025-01-07,2025-02-19,Lost,Closed Lost,2025-02-15,Outbound,Phone,Manufacturing,Sul,A-0109,Nova Tech 109,Eva (SDR),22098.46,0.0,0.0,Plano B,43,Competitor
+D-00449,2025-10-25,2025-12-05,Lost,Closed Lost,2025-11-22,Inbound,WhatsApp,Education,Sul,A-0048,Nexo Tech 048,Eva (SDR),300000.0,0.0,0.0,Plano B,41,No Need
+D-00450,2025-02-17,2025-06-22,Lost,Closed Lost,2025-06-05,Partner,Email,Education,Nordeste,A-0073,Apex Solutions 073,Carla (AE),12876.68,0.0,0.0,Plano B,125,Competitor
+D-00451,2025-09-22,2025-11-16,Won,Closed Won,2025-11-06,Referral,WhatsApp,Retail,Sudeste,A-0017,Meta Serviços 017,Ana (AE),7660.64,7660.64,1.0,Plano B,55,
+D-00452,2025-04-25,2025-06-09,Lost,Closed Lost,2025-05-26,Outbound,Email,Education,Centro-Oeste,A-0080,Apex Digital 080,Carla (AE),16551.21,0.0,0.0,Serviço Y,45,Other
+D-00453,2025-11-03,2026-02-07,Open,Negotiation,2026-02-16,Inbound,Phone,Manufacturing,Centro-Oeste,A-0095,Prime Digital 095,Carla (AE),9640.61,6748.43,0.7,Serviço Y,96,
+D-00454,2024-09-01,2024-11-21,Won,Closed Won,2024-11-09,Partner,Email,Retail,Norte,A-0033,Blue Comércio 033,Eva (SDR),8575.22,8575.22,1.0,Implantação,81,
+D-00455,2025-12-19,2026-02-10,Open,Qualification,2026-02-02,Event,LinkedIn,Retail,Sudeste,A-0017,Meta Serviços 017,Bruno (AE),7622.96,2286.89,0.3,Serviço X,53,
+D-00456,2026-02-07,2026-02-14,Open,Proposal,2026-02-15,Outbound,Other,Retail,Sudeste,A-0041,Sul Serviços 041,Diego (AE),7750.07,3875.04,0.5,Implantação,7,
+D-00457,2025-03-02,2025-05-17,Lost,Closed Lost,2025-04-30,Inbound,Phone,Education,Centro-Oeste,A-0005,Nova Serviços 005,Carla (AE),8144.57,0.0,0.0,Serviço Y,76,Timing
+D-00458,2024-12-20,2025-04-03,Open,Qualification,2026-01-12,Inbound,Email,Manufacturing,Sul,A-0109,Nova Tech 109,Bruno (AE),25084.97,7525.49,0.3,Plano B,104,
+D-00459,2024-08-31,2026-01-25,Open,Proposal,2026-01-12,Inbound,LinkedIn,Manufacturing,Sul,A-0068,Blue Serviços 068,Eva (SDR),74400.13,37200.07,0.5,Plano A,512,
+D-00460,2024-12-13,2025-03-26,Open,Negotiation,2026-01-21,Partner,LinkedIn,Manufacturing,Sul,A-0108,Nova Solutions 108,Carla (AE),14247.44,9973.21,0.7,Serviço X,103,
+D-00461,2025-07-25,2025-08-25,Open,Proposal,2026-02-07,Referral,Email,Healthcare,Sudeste,A-0094,Blue Digital 094,Eva (SDR),12803.83,6401.91,0.5,Plano A,31,
+D-00462,2025-04-29,2025-06-25,Won,Closed Won,2025-06-19,Inbound,WhatsApp,Healthcare,Nordeste,A-0099,Nexo Tech 099,Diego (AE),14091.22,14091.22,1.0,Plano B,57,
+D-00463,2025-08-29,2025-11-04,Open,Proposal,2026-01-22,Outbound,LinkedIn,Manufacturing,Sul,A-0086,Blue Indústria 086,Ana (AE),7915.55,3957.77,0.5,Serviço X,67,
+D-00464,2025-11-06,2025-12-06,Open,Proposal,2026-01-22,Inbound,WhatsApp,Healthcare,Sudeste,A-0012,Apex Comércio 012,Carla (AE),3675.46,1837.73,0.5,Plano B,30,
+D-00465,2024-11-16,2024-12-13,Won,Closed Won,2024-12-10,Partner,LinkedIn,Services,Centro-Oeste,A-0117,Sul Labs 117,Eva (SDR),14262.95,14262.95,1.0,Plano B,27,
+D-00466,2026-02-03,2026-02-08,Lost,Closed Lost,2026-02-03,Partner,Phone,Education,Sul,A-0014,Atlas Indústria 014,Carla (AE),46278.62,0.0,0.0,Serviço X,5,No Budget
+D-00467,2025-02-26,2025-04-20,Open,Qualification,2026-02-07,Referral,Email,SaaS,Centro-Oeste,A-0101,Atlas Indústria 101,Ana (AE),4533.08,1359.92,0.3,Implantação,53,
+D-00468,2025-03-31,2025-07-04,Lost,Closed Lost,2025-06-17,Inbound,LinkedIn,Services,Centro-Oeste,A-0024,Vitta Labs 024,Bruno (AE),3508.13,0.0,0.0,Plano A,95,Other
+D-00469,2025-07-03,2025-07-23,Won,Closed Won,2025-07-15,Event,WhatsApp,Education,Centro-Oeste,A-0080,Apex Digital 080,Diego (AE),51501.2,51501.2,1.0,Serviço X,20,
+D-00470,2024-09-23,2024-12-16,Lost,Closed Lost,2024-12-14,Referral,Phone,SaaS,Sul,A-0027,Nexo Solutions 027,Bruno (AE),43491.15,0.0,0.0,Implantação,84,Timing
+D-00471,2024-12-24,2026-01-21,Open,Prospecting,2026-01-23,Outbound,Email,Healthcare,Sul,A-0022,Atlas Digital 022,Ana (AE),38189.26,3818.93,0.1,Serviço X,393,
+D-00472,2026-01-16,2026-02-14,Open,Proposal,2026-01-16,Inbound,LinkedIn,Manufacturing,Centro-Oeste,A-0095,Prime Digital 095,Eva (SDR),12077.31,6038.65,0.5,Implantação,29,
+D-00473,2024-09-15,2025-01-12,Won,Closed Won,2024-12-28,Outbound,Phone,Healthcare,Sudeste,A-0055,Prime Indústria 055,Bruno (AE),58598.96,58598.96,1.0,Plano A,119,
+D-00474,2024-09-17,2026-01-30,Open,Proposal,2026-01-04,Inbound,Email,SaaS,Norte,A-0021,Sul Comércio 021,Bruno (AE),12841.98,6420.99,0.5,Serviço X,500,
+D-00475,2025-09-30,2026-01-13,Open,Proposal,2026-02-07,Partner,WhatsApp,SaaS,Norte,A-0054,Prime Tech 054,Diego (AE),28894.98,14447.49,0.5,Plano B,105,
+D-00476,2025-03-19,2025-05-11,Open,Qualification,2026-02-08,Event,LinkedIn,SaaS,Norte,A-0021,Sul Comércio 021,Bruno (AE),20940.88,6282.26,0.3,Plano B,53,
+D-00477,2025-02-21,2025-04-23,Won,Closed Won,2025-04-10,Inbound,Email,Retail,Nordeste,A-0106,Meta Solutions 106,Diego (AE),20276.21,20276.21,1.0,Plano B,61,
+D-00478,2024-10-13,2024-12-30,Open,Qualification,2026-02-11,Partner,LinkedIn,Healthcare,Nordeste,A-0099,Nexo Tech 099,Ana (AE),15788.58,4736.58,0.3,Plano A,78,
+D-00479,2024-12-13,2025-02-15,Won,Closed Won,2025-02-08,Referral,Email,SaaS,Centro-Oeste,A-0101,Atlas Indústria 101,Eva (SDR),15636.38,15636.38,1.0,Plano A,64,
+D-00480,2025-06-22,2025-09-03,Open,Prospecting,2026-02-18,Inbound,WhatsApp,Manufacturing,Nordeste,A-0091,Prime Labs 091,Diego (AE),37484.13,3748.41,0.1,Serviço X,73,
+D-00481,2025-05-05,2025-07-29,Won,Closed Won,2025-07-14,Inbound,LinkedIn,Services,Sul,A-0107,Sul Digital 107,Carla (AE),14934.63,14934.63,1.0,Serviço Y,85,
+D-00482,2025-04-17,2025-08-06,Open,Proposal,2026-02-14,Outbound,Phone,Education,Nordeste,A-0018,Atlas Digital 018,Bruno (AE),34892.8,17446.4,0.5,Serviço X,111,
+D-00483,2024-11-21,2025-03-10,Open,Negotiation,2026-01-30,Referral,Email,Manufacturing,Nordeste,A-0044,Meta Labs 044,Carla (AE),21242.42,14869.7,0.7,Implantação,109,
+D-00484,2025-07-14,2025-09-26,Lost,Closed Lost,2025-09-13,Outbound,Email,Services,Centro-Oeste,A-0117,Sul Labs 117,Eva (SDR),2881.39,0.0,0.0,Serviço Y,74,No Decision
+D-00485,2025-10-15,2026-01-06,Won,Closed Won,2025-12-18,Inbound,WhatsApp,SaaS,Nordeste,A-0100,Orion Digital 100,Ana (AE),5051.22,5051.22,1.0,Plano B,83,
+D-00486,2025-07-12,2025-08-13,Lost,Closed Lost,2025-08-10,Referral,LinkedIn,Healthcare,Sudeste,A-0067,Orion Group 067,Ana (AE),10255.41,0.0,0.0,Serviço X,32,No Decision
+D-00487,2025-09-12,2025-11-01,Open,Qualification,2026-01-12,Partner,Email,Services,Sul,A-0034,Nexo Indústria 034,Ana (AE),10765.04,3229.51,0.3,Serviço X,50,
+D-00488,2025-04-23,2025-08-05,Won,Closed Won,2025-07-28,Outbound,Email,Services,Centro-Oeste,A-0045,Vitta Group 045,Diego (AE),17740.77,17740.77,1.0,Serviço Y,104,
+D-00489,2025-08-31,2025-12-10,Open,Qualification,2026-01-21,Outbound,WhatsApp,Retail,Norte,A-0059,Prime Serviços 059,Bruno (AE),8073.41,2422.02,0.3,Implantação,101,
+D-00490,2026-01-10,2026-02-17,Lost,Closed Lost,2026-01-29,Inbound,WhatsApp,Healthcare,Sudeste,A-0094,Blue Digital 094,Diego (AE),5211.0,0.0,0.0,Implantação,38,Other
+D-00491,2025-09-09,2025-09-30,Won,Closed Won,2025-09-24,Inbound,Email,SaaS,Norte,A-0118,Meta Serviços 118,Carla (AE),15746.74,15746.74,1.0,Serviço X,21,
+D-00492,2025-01-19,2025-02-11,Won,Closed Won,2025-01-27,Referral,Email,SaaS,Centro-Oeste,A-0101,Atlas Indústria 101,Eva (SDR),9518.12,9518.12,1.0,Serviço Y,23,
+D-00493,2026-01-01,2026-02-16,Lost,Closed Lost,2026-02-04,Outbound,Phone,Services,Centro-Oeste,A-0074,Atlas Solutions 074,Bruno (AE),11510.58,0.0,0.0,Implantação,46,Timing
+D-00494,2024-11-26,2026-02-07,Open,Proposal,2026-01-04,Referral,LinkedIn,Healthcare,Sul,A-0103,Meta Serviços 103,Bruno (AE),27573.68,13786.84,0.5,Plano A,438,
+D-00495,2024-09-21,2024-12-20,Lost,Closed Lost,2024-12-02,Outbound,WhatsApp,Services,Centro-Oeste,A-0074,Atlas Solutions 074,Bruno (AE),37461.0,0.0,0.0,Plano A,90,No Budget
+D-00496,2025-03-08,2025-05-21,Lost,Closed Lost,2025-05-17,Event,Email,Services,Nordeste,A-0097,Vitta Indústria 097,Ana (AE),6415.44,0.0,0.0,Plano A,74,No Decision
+D-00497,2025-07-21,2025-08-24,Open,Qualification,2026-01-15,Inbound,Email,Retail,Centro-Oeste,A-0052,Sul Solutions 052,Eva (SDR),22539.83,6761.95,0.3,Plano A,34,
+D-00498,2025-02-15,2025-03-12,Won,Closed Won,2025-03-01,Inbound,LinkedIn,SaaS,Sul,A-0037,Blue Labs 037,Ana (AE),4786.77,4786.77,1.0,Plano B,25,
+D-00499,2025-09-30,2025-12-20,Lost,Closed Lost,2025-12-02,Outbound,Phone,SaaS,Centro-Oeste,A-0013,Blue Serviços 013,Bruno (AE),5882.74,0.0,0.0,Plano A,81,No Need
+D-00500,2026-01-25,2026-02-09,Lost,Closed Lost,2026-01-28,Outbound,Email,Education,Sudeste,A-0050,Prime Comércio 050,Bruno (AE),39710.04,0.0,0.0,Plano A,15,Competitor
+D-00501,2024-12-08,2025-01-16,Won,Closed Won,2025-01-07,Outbound,LinkedIn,SaaS,Nordeste,A-0032,Sul Solutions 032,Ana (AE),47532.67,47532.67,1.0,Implantação,39,
+D-00502,2025-11-03,2025-12-23,Lost,Closed Lost,2025-12-09,Event,WhatsApp,Services,Centro-Oeste,A-0117,Sul Labs 117,Diego (AE),9108.29,0.0,0.0,Plano B,50,No Decision
+D-00503,2025-08-21,2025-11-18,Lost,Closed Lost,2025-11-08,Inbound,WhatsApp,Manufacturing,Sul,A-0108,Nova Solutions 108,Carla (AE),27123.95,0.0,0.0,Implantação,89,No Need
+D-00504,2025-11-12,2026-01-07,Won,Closed Won,2025-12-22,Inbound,WhatsApp,SaaS,Sul,A-0027,Nexo Solutions 027,Bruno (AE),18619.31,18619.31,1.0,Serviço Y,56,
+D-00505,2025-07-29,2026-01-07,Open,Proposal,2026-01-08,Inbound,Email,Healthcare,Sul,A-0003,Blue Indústria 003,Ana (AE),31069.6,15534.8,0.5,Implantação,162,
+D-00506,2024-11-14,2024-12-17,Lost,Closed Lost,2024-12-01,Referral,Phone,Education,Sudeste,A-0069,Orion Group 069,Bruno (AE),15940.22,0.0,0.0,Serviço X,33,No Budget
+D-00507,2025-09-10,2025-12-02,Open,Prospecting,2026-02-16,Partner,Email,Retail,Sudeste,A-0120,Blue Comércio 120,Diego (AE),28466.2,2846.62,0.1,Implantação,83,
+D-00508,2025-06-10,2025-09-08,Won,Closed Won,2025-08-19,Outbound,Phone,Services,Sudeste,A-0064,Atlas Tech 064,Diego (AE),11299.64,11299.64,1.0,Implantação,90,
+D-00509,2025-02-22,2025-03-16,Open,Proposal,2026-01-05,Event,Phone,Education,Sul,A-0009,Orion Indústria 009,Ana (AE),28132.51,14066.25,0.5,Implantação,22,
+D-00510,2025-05-12,2025-07-23,Open,Proposal,2026-01-06,Outbound,Phone,SaaS,Sudeste,A-0088,Sul Labs 088,Eva (SDR),9701.37,4850.68,0.5,Plano A,72,
+D-00511,2026-02-08,2026-02-17,Won,Closed Won,2026-02-15,Partner,Email,Education,Centro-Oeste,A-0060,Orion Indústria 060,Ana (AE),8406.94,8406.94,1.0,Serviço Y,9,
+D-00512,2025-04-15,2025-07-22,Won,Closed Won,2025-07-10,Inbound,LinkedIn,SaaS,Sudeste,A-0089,Nova Comércio 089,Bruno (AE),16191.27,16191.27,1.0,Plano A,98,
+D-00513,2025-05-10,2026-01-20,Open,Proposal,2026-01-12,Inbound,LinkedIn,SaaS,Nordeste,A-0032,Sul Solutions 032,Bruno (AE),9280.3,4640.15,0.5,Plano B,255,
+D-00514,2025-01-01,2025-02-01,Won,Closed Won,2025-01-29,Partner,Email,Manufacturing,Centro-Oeste,A-0011,Meta Solutions 011,Diego (AE),2226.81,2226.81,1.0,Serviço Y,31,
+D-00515,2024-10-19,2025-01-24,Lost,Closed Lost,2025-01-19,Outbound,Phone,SaaS,Nordeste,A-0038,Sul Solutions 038,Carla (AE),17156.93,0.0,0.0,Implantação,97,No Decision
+D-00516,2025-08-09,2025-09-14,Open,Negotiation,2026-02-02,Inbound,WhatsApp,Healthcare,Sudeste,A-0084,Meta Indústria 084,Ana (AE),7830.12,5481.08,0.7,Plano A,36,
+D-00517,2025-08-25,2025-10-21,Lost,Closed Lost,2025-10-01,Inbound,Email,SaaS,Norte,A-0054,Prime Tech 054,Ana (AE),8013.7,0.0,0.0,Plano B,57,Competitor
+D-00518,2025-01-23,2025-04-05,Lost,Closed Lost,2025-03-23,Event,LinkedIn,Manufacturing,Norte,A-0019,Sul Solutions 019,Bruno (AE),16305.76,0.0,0.0,Plano B,72,No Budget
+D-00519,2025-03-15,2025-05-16,Open,Qualification,2026-01-23,Inbound,LinkedIn,Manufacturing,Norte,A-0026,Vitta Solutions 026,Ana (AE),22573.67,6772.1,0.3,Serviço Y,62,
+D-00520,2025-07-29,2025-09-29,Open,Proposal,2026-01-25,Outbound,WhatsApp,SaaS,Norte,A-0021,Sul Comércio 021,Eva (SDR),51330.75,25665.38,0.5,Serviço Y,62,
