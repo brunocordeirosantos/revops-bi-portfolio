@@ -19,5 +19,4 @@ Power BI • Excel • SQL
 ## Entregáveis
 - CSVs simulados (pasta `data/`)
 - Prints do dashboard (pasta `dashboard/`)
-- ## Preview (Visão Executiva)
-![Visão Executiva](./dashboard/01-visao-executiva.png)
+![Visão Executiva](https://github.com/brunocordeirosantos/revops-bi-portfolio/raw/main/01-bi-comercial-b2b/01-bi-comercial-b2b/dashboard/01-visao-executiva.png)
